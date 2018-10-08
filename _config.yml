@@ -7,17 +7,17 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhiqiang Zhong (钟志强)"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Zhiqiang Zhong"
-description              : #&description "personal description"
-url                      : https://zhiqiangzhongddu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhiqiangzhongddu.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : false
+future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhiqiang Zhong"
-  avatar           : "profile_zhiqiang_picture.png"
-  bio              : "PhD Candidate at University of Luxembourg | Kaggle Master "
-  location         : "Luxembourg"
-  employer         : "University of Luxembourg"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "zhiqiang.zhong@uni.lu"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhiqiangzhongddu"
+  github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        : "zhiqiang__dzzz/"
+  instagram        :
   lastfm           :
-  linkedin         : "zhiqiang-zhong-097287111/"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "zhong_zhiqiang"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -186,6 +186,17 @@ collections:
 
 # Defaults
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -193,6 +204,41 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -204,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
