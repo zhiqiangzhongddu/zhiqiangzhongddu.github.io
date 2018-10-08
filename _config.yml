@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zhiqiang Zhong (钟志强)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zhiqiang Zhong"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhiqiangzhongddu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "zhiqiangzhongddu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Zhiqiang Zhong"
+  avatar           : "profile_zhiqiang_picture.png"
+  bio              : "PhD Candidate at University of Luxembourg | Kaggle Master"
+  location         : "Luxembourg"
+  employer         : "University of Luxembourg"
+#   googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : ""zhiqiang.zhong@uni.lu""
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zhiqiangzhongddu"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "zhiqiang__dzzz/"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "zhiqiang-zhong-097287111/"
+#   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "zhong_zhiqiang"
   vine             :
   weibo            :
   xing             :
