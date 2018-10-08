@@ -7,7 +7,7 @@ main:
     url: /activities/
   
   - title: "Blog"
-    url: /year-archive.html/
+    url: /year-archive/
   
   - title: "Misc."
     url: /misc/
