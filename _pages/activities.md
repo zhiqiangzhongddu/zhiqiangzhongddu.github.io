@@ -18,3 +18,7 @@ Work as teaching assistant of course Introduction to IT Security, 1st semester o
 [Kaggle-TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/leaderboard), 50/3961 teams, silver medal.
 
 [Kaggle-Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/leaderboard), 237/4551 teams, bronze medal.
+
+## 2017
+
+Work as Data Scientist at [AT INTERNET](https://www.atinternet.com/en/)
