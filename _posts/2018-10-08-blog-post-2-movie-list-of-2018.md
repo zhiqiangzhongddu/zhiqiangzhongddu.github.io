@@ -34,4 +34,4 @@ A list records part of movies that I watched in 2018.
 - Ali (拳王阿里) / Actor: Will Smith
 - 天注定 (A Touch of Sin)
 - Venom (毒液)
-
+- 英雄 (Hero) / Director: Yimou Zhang
