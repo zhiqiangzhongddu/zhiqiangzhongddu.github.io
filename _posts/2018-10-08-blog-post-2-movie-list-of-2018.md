@@ -35,5 +35,5 @@ A list records part of movies that I watched in 2018.
 - 天注定 (A Touch of Sin)
 - Venom (毒液)
 - 英雄 (Hero) / Director: Yimou Zhang
-- Bohemian Rhapsody / Best of the: year
+- Bohemian Rhapsody / Best of the year
 - 我不是药神 (Dying to Survive)
