@@ -22,3 +22,4 @@ A list records part of books that I read in 2018.
 - 人间词话
 - Nineteen Eighty-Four (1984) / George Orwell
 - 宇宙超度指南
+- L'Amant (情人)
