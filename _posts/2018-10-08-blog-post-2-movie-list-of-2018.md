@@ -39,4 +39,4 @@ A list records part of movies that I watched in 2018.
 - 我不是药神 (Dying to Survive)
 - 邪不压正 (Hidden Man) / Director: Wen Jiang
 - 影 (Shadow) / Director: Yimou Zhang
-
+- 胡佛传 (J. Edgar) / Actor: Leonardo DiCaprio
