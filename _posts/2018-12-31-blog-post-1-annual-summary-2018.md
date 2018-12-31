@@ -15,7 +15,7 @@ tags:
 
 开始读[博士](http://satoss.uni.lu/members/zhiqiang/)，
 拿到了[Kaggle Master](https://www.kaggle.com/zhiqiangzhong)，
-做了一些freelance，
+做了一些[freelance]（https://www.linkedin.com/in/zhiqiang-zhong-097287111/），
 读了一些[书](https://zhiqiangzhongddu.github.io/posts/2018/10/Reading-List%202018/)，
 看了一些[电影](https://zhiqiangzhongddu.github.io/posts/2018/10/blog-post-2/)，
 去了一些地方，
