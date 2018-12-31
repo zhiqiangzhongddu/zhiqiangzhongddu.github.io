@@ -12,6 +12,7 @@ tags:
 
 ## 2018 年度总结
 2018是个意义非凡的一年：
+
 开始读博士，
 拿到了Kaggle Master，
 做了一些freelance，
