@@ -18,7 +18,7 @@ tags:
 做了一些[freelance](https://www.linkedin.com/in/zhiqiang-zhong-097287111/)，
 读了一些[书](https://zhiqiangzhongddu.github.io/posts/2018/10/Reading-List%202018/)，
 看了一些[电影](https://zhiqiangzhongddu.github.io/posts/2018/10/blog-post-2/)，
-去了一些地方，
+去了一些[地方](https://www.instagram.com/zhiqiang__dzzz/)，
 探索了一些未知...
 
 ### PhD 
