@@ -36,4 +36,4 @@ Recently passed Conference & Workshops Deadlines
 ======
 Name          | Deadline      | Location      |Format
 --- | --- | --- | --- 
-| [ICWSM 2019](https://www.icwsm.org/2019/index.php) |  2019-01-15 | Munich | AAAI
+| [ICWSM 2019](https://www.icwsm.org/2019/index.php) |  2019-01-15 | Munich | AAAI 
