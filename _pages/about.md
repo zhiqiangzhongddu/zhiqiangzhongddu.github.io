@@ -23,6 +23,16 @@ What's New
 ======
 Work as a teaching assistant of course Introduction to IT security during the first semester of 2018-2019.
 
+\begin{table}[]
+\begin{tabular}{|l|l|}
+\hline
+A & B \\ \hline
+  &   \\ \hline
+  &   \\ \hline
+  &   \\ \hline
+\end{tabular}
+\end{table}
+
 Upcoming Conference & Workshops Deadlines
 ======
 | Name          | Deadline      | Location      |Format |
