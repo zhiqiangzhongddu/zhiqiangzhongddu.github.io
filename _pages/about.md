@@ -23,15 +23,15 @@ What's New
 ======
 Work as a teaching assistant of course Introduction to IT security during the first semester of 2018-2019.
 
-\begin{table}[]
-\begin{tabular}{|l|l|}
-\hline
-A & B \\ \hline
-  &   \\ \hline
-  &   \\ \hline
-  &   \\ \hline
-\end{tabular}
-\end{table}
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+
+| Attempt | #1  | #2  |
+| :---:   | :-: | :-: |
+| Seconds | 301 | 283 |
 
 Upcoming Conference & Workshops Deadlines
 ======
