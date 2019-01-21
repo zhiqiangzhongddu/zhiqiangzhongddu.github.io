@@ -23,19 +23,8 @@ What's New
 ======
 Work as a teaching assistant of course Introduction to IT security during the first semester of 2018-2019.
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-
-| Attempt | #1  | #2  |
-| :---:   | :-: | :-: |
-| Seconds | 301 | 283 |
-
 Upcoming Conference & Workshops Deadlines
 ======
-
 Name          | Deadline      | Location      |Format
 --- | --- | --- | --- 
 [ICML 2019](https://icml.cc/)  | 2019-01-23 | Long Beach | ICML
