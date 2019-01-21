@@ -37,7 +37,7 @@ Upcoming Conference & Workshops Deadlines
 ======
 
 First Header  | Second Header
-------------- | -------------
+--- | ---
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
