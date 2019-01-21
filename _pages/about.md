@@ -36,17 +36,17 @@ Content Cell  | Content Cell
 Upcoming Conference & Workshops Deadlines
 ======
 
-First Header  | Second Header
+Name          | Deadline      | Location      |Format
 --- | ---
-[ICML 2019](https://icml.cc/)  | 2019-01-23
-Content Cell  | Content Cell
+[ICML 2019](https://icml.cc/)  | 2019-01-23 | Long Beach | ICML
+[KDD 2019](https://www.kdd.org/kdd2019/) | 2019-02-03 | Anchorage | ACM 
 
 Name          | Deadline      | Location      |Format
 --- | --- | --- | --- | ---
-[ICML 2019](https://icml.cc/) |  2019-01-23 | Long Beach | ICML |
-[KDD 2019](https://www.kdd.org/kdd2019/) | 2019-02-03 | Anchorage | ACM |
-[IJCAI 2019](http://ijcai19.org/) | 2019-08-10 | Macao | IJCAI |
-[CCS 2019](http://ccs2019.sigsac.org/) | 2019-01-31 | London | ACM |
+[ICML 2019](https://icml.cc/) |  2019-01-23 | Long Beach | ICML 
+[KDD 2019](https://www.kdd.org/kdd2019/) | 2019-02-03 | Anchorage | ACM 
+[IJCAI 2019](http://ijcai19.org/) | 2019-08-10 | Macao | IJCAI 
+[CCS 2019](http://ccs2019.sigsac.org/) | 2019-01-31 | London | ACM 
 
 Recently passed Conference & Workshops Deadlines
 ======
