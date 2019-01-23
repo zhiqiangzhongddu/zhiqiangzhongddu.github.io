@@ -1,14 +1,11 @@
 ---
-permalink: /cfps/
-title: "CFPs"
+title: "Activities"
+permalink: /activities/
 author_profile: true
-redirect_from: 
-  - /cfps/
-  - /cfps.html
 ---
 
-## Tables
 
+## Tables
 
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
@@ -17,6 +14,7 @@ redirect_from:
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
 
+## Tables 1
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
