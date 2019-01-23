@@ -5,22 +5,18 @@ author_profile: true
 ---
 
 
-## Tables
+## Upcoming Conference & Workshops Deadlines
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| Name                                    | Deadline      | Location      |Format |
+| :---: | :---: | :---: | :---: |
+| [ICML 2019](https://icml.cc/)  | 2019-01-23 | Long Beach | ICML |
+| [KDD 2019](https://www.kdd.org/kdd2019/) | 2019-02-03 | Anchorage | ACM | 
+| [IJCAI 2019](http://ijcai19.org/) | 2019-08-10 | Macao | IJCAI |
+| [CCS 2019](http://ccs2019.sigsac.org/) | 2019-01-31 | London | ACM |
 
 
-## Tables 1
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+## Recently passed Conference & Workshops Deadlines
+
+Name          | Deadline      | Location      |Format
+| :---: | :---: | :---: | :---: | 
+| [ICWSM 2019](https://www.icwsm.org/2019/index.php) |  2019-01-15 | Munich | AAAI |
