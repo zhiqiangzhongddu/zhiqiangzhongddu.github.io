@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /cfps/
+title: ""
 author_profile: true
 redirect_from: 
   - /cfps/
