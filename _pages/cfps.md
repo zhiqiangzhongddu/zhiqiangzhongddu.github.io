@@ -1,6 +1,6 @@
 ---
 permalink: /cfps/
-title: ""
+title: "CFPs"
 author_profile: true
 redirect_from: 
   - /cfps/
