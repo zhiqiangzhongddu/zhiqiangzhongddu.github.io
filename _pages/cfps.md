@@ -3,11 +3,6 @@ layout: archive
 permalink: /cfps/
 title: "CFPs"
 author_profile: true
-<!---
-redirect_from: 
-  - /md/
-  - /cfps.html
--->
 ---
 
 ## Tables
