@@ -20,3 +20,4 @@ A list records part of movies that I watched in 2019.
 - Bohemian Rhapsody (波西米亚狂想曲)
 - You Don't Know Jack (死亡医生)
 - Seven (七宗罪)
+- Vice (副总统)
