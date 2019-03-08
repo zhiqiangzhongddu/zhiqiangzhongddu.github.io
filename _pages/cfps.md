@@ -10,7 +10,9 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :----: |
-| [ACL 2019](http://www.acl2019.org/EN/index.xhtml)                     | 2019-03-04 | Florence      | ACL    |
+| [CIKM 2019](http://www.cikm2019.net/index.html)                       | 2019-05-22 | Beijing       | ACM    |
+| [NeurIPS 2019](https://nips.cc/Conferences/2019/)                     | 2019-05-23 | Vancouver     | NIPS   |
+| [ICDM 2019](http://icdm2019.bigke.org/)                               | 2019-06-05 | Beijing       | IEEE   |
 | [IJCAI 2019](http://ijcai19.org/)                                     | 2019-08-10 | Macao         | IJCAI  |
 
 
@@ -18,6 +20,7 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :----: | 
+| [ACL 2019](http://www.acl2019.org/EN/index.xhtml)                     | 2019-03-04 | Florence      | ACL    |
 | [KDD 2019](https://www.kdd.org/kdd2019/)                              | 2019-02-03 | Anchorage     | ACM    |
 | [CCS 2019](http://ccs2019.sigsac.org/)                                | 2019-01-31 | London        | ACM    |
 | [ICML 2019](https://icml.cc/)                                         | 2019-01-23 | Long Beach    | ICML   |
