@@ -21,3 +21,4 @@ A list records part of movies that I watched in 2019.
 - You Don't Know Jack (死亡医生)
 - Seven (七宗罪)
 - Vice (副总统)
+- Free Solo (徒手攀岩) / Documentary 
