@@ -25,3 +25,4 @@ A list records part of movies that I watched in 2019.
 - Black Panther (黑豹)
 - Good Will Hunting (心灵捕手)
 - 新喜剧之王 (The New King of Comedy)
+- 飞驰人生 (Pegasus)
