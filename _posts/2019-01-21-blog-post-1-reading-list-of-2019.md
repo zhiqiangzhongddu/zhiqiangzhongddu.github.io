@@ -16,3 +16,5 @@ A list records part of books that I read in 2019.
 - 大明王朝1566 (Ming Dynasty in 1566)
 - Sapiens: A Brief History of Humankind (人类简史)
 - Psychologie des Foules (乌合之众：大众心理研究)
+- 李鸿章传
+
