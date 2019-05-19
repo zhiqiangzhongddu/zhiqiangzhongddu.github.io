@@ -28,3 +28,5 @@ A list records part of movies that I watched in 2019.
 - 飞驰人生 (Pegasus)
 - The Pursuit of Happyness (当幸福来敲门)
 - Avengers: Endgame （复仇者联盟4：终局之战）
+- Green Book (绿皮书)
+
