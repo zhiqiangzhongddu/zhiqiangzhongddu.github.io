@@ -17,4 +17,5 @@ A list records part of books that I read in 2019.
 - Sapiens: A Brief History of Humankind (人类简史)
 - Psychologie des Foules (乌合之众：大众心理研究)
 - 李鸿章传
+- Old man and the sea (老人与海)
 
