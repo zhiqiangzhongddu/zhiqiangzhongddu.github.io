@@ -10,8 +10,6 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :----: |
-| [CIKM 2019](http://www.cikm2019.net/index.html)                       | 2019-05-22 | Beijing       | ACM    |
-| [NeurIPS 2019](https://nips.cc/Conferences/2019/)                     | 2019-05-23 | Vancouver     | NIPS   |
 | [ICDM 2019](http://icdm2019.bigke.org/)                               | 2019-06-05 | Beijing       | IEEE   |
 | [WSDM 2020](http://www.wsdm-conference.org/2020/)                     | 2019-08-16 | Houston       | ACM    |
 
@@ -20,6 +18,8 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :----: | 
+| [CIKM 2019](http://www.cikm2019.net/index.html)                       | 2019-05-22 | Beijing       | ACM    |
+| [NeurIPS 2019](https://nips.cc/Conferences/2019/)                     | 2019-05-23 | Vancouver     | NIPS   |
 | [ACL 2019](http://www.acl2019.org/EN/index.xhtml)                     | 2019-03-04 | Florence      | ACL    |
 | [IJCAI 2019](http://ijcai19.org/)                                     | 2019-02-25 | Macao         | IJCAI  |
 | [KDD 2019](https://www.kdd.org/kdd2019/)                              | 2019-02-03 | Anchorage     | ACM    |
