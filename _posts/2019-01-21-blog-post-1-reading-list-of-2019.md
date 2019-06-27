@@ -18,4 +18,5 @@ A list records part of books that I read in 2019.
 - Psychologie des Foules (乌合之众：大众心理研究)
 - 李鸿章传
 - Old man and the sea (老人与海)
-
+- Le piège américain (美国陷阱)
+- Voices from Chernobyl (切尔诺贝利的悲鸣)

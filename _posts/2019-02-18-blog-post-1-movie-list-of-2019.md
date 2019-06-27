@@ -31,3 +31,4 @@ A list records part of movies that I watched in 2019.
 - Green Book (绿皮书)
 - John Wick: Chapter 3 – Parabellum
 - 解救吾先生 (Saving Mr. Wu)
+- The Shawshank Redemption (肖申克的救赎)
