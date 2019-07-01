@@ -6,6 +6,12 @@ author_profile: true
 
 A list of conferences, workshops, schools, competitions, etc. that I have attended. 
 
+## 2019
+
+Attend the UniGR Summer School on Verification Technology, Systems and Applications (VTSA 2019), 1st-5th July, University of Luxembourg, Belval, Luxembourg. 
+
+Attend the DigiCosme Spring School on Formal Methods and Machine Learning, 4th-7th June 2019, ENS Paris-Saclay, Cachan, France. 
+
 ## 2018
 
 Work as Teaching Assistant of course Introduction to IT Security, 1st semester of 2018-2019.
