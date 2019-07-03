@@ -12,6 +12,7 @@ This page contains a collection of conferences and workshops that I'm interested
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :----: |
 | [WSDM 2020](http://www.wsdm-conference.org/2020/)                     | 2019-08-16 | Houston       | ACM    |
 | [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)                    | 2019-09-05 | New York      | AAAI   |
+| [NDSS 2020](https://www.ndss-symposium.org/ndss2020/)                 | 2019-09-13 | San Diego     | NDSS   |
 | [WWW 2020](https://www2020.thewebconf.org/)                           | 2019-10-14 | Taibei        | ACM    |
 
 ## Recently passed Conference & Workshops Deadlines
@@ -28,4 +29,3 @@ This page contains a collection of conferences and workshops that I'm interested
 | [ICML 2019](https://icml.cc/)                                         | 2019-01-23 | Long Beach    | ICML   |
 | [ICWSM 2019](https://www.icwsm.org/2019/index.php)                    | 2019-01-15 | Munich        | AAAI   |
 | [EuroS&P 2019](https://www.ieee-security.org/TC/EuroSP2019/index.php) | 2018-11-03 | Stockholm     | IEEE   |
-| [NDSS 2019](https://www.ndss-symposium.org/ndss2019/)                 | 2018-08-07 | San Diego     | NDSS   |
