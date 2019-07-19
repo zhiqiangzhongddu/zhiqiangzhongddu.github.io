@@ -19,4 +19,4 @@ Solid statistic knowledge and familiar with machine learning algorithms.
 [Kaggle Master](https://www.kaggle.com/zhiqiangzhong), rank 525.
 
 ## What's New
-Work as a teaching assistant of course Introduction to IT security during the first semester of 2018-2019.
+Organize as a local organizer and attend the [UniGR Summer School on Verification Technology, Systems and Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa19/) (**VTSA** 2019), 1st-5th July, University of Luxembourg, Belval, Luxembourg. 
