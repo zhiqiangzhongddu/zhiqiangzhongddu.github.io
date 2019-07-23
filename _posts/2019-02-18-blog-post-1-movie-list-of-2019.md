@@ -32,3 +32,5 @@ A list records part of movies that I watched in 2019.
 - John Wick: Chapter 3 – Parabellum
 - 解救吾先生 (Saving Mr. Wu)
 - The Shawshank Redemption (肖申克的救赎)
+- 万引き家族 (小偷家族)
+- The Legend of 1900 (海上钢琴师)
