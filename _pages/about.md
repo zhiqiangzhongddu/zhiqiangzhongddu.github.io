@@ -19,4 +19,6 @@ Solid statistic knowledge and familiar with machine learning algorithms.
 [Kaggle Master](https://www.kaggle.com/zhiqiangzhong), rank 525.
 
 ## What's New
+Attend the *ACM-IMC Shadow PC meeting*, 29th July 2019, Queen Mary University of London, UK.
+
 Organize as a local organizer and attend the [UniGR Summer School on Verification Technology, Systems and Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa19/) (**VTSA** 2019), 1st-5th July, University of Luxembourg, Belval, Luxembourg. 
