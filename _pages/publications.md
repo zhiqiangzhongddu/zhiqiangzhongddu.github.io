@@ -5,5 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Papers are still in my brain.
-Is coming soon...
+## 2019
+A Graph-based Approach to Explore Relationship between Hashtags and Images
+**Zhiqiang Zhong**, Yang Zhang, Jun Pang
+*In Proceedings of the 20th International Conference on Web Information Systems Engineering (WISE’19)*
