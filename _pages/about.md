@@ -19,7 +19,7 @@ Solid statistic knowledge and familiar with machine learning algorithms.
 [Kaggle Master](https://www.kaggle.com/zhiqiangzhong), rank 525.
 
 ## What's New
-<font color="blue">A Graph-based Approach to Explore Relationship between Hashtags and Images</font>  
+<font color="#000066">A Graph-based Approach to Explore Relationship between Hashtags and Images</font>  
 **Zhiqiang Zhong**, Yang Zhang, Jun Pang  
 *In Proceedings of the 20th International Conference on Web Information Systems Engineering (WISE’19)*  
 
