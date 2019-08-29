@@ -35,3 +35,7 @@ A list records part of movies that I watched in 2019.
 - 万引き家族 (小偷家族)
 - The Legend of 1900 (海上钢琴师)
 - Chaplin (卓别林传)
+- 桃姐 (A Simple Life)
+- Shutter Island (禁闭岛)
+- Taken 123 (飓风营救 123)
+- 万箭穿心 (Feng Shui)
