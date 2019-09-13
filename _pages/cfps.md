@@ -10,7 +10,6 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :----: |
-| [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)                    | 2019-09-05 | New York      | AAAI   |
 | [NDSS 2020](https://www.ndss-symposium.org/ndss2020/)                 | 2019-09-13 | San Diego     | NDSS   |
 | [WWW 2020](https://www2020.thewebconf.org/)                           | 2019-10-14 | Taibei        | ACM    |
 | [ICWSM 2020](https://www.icwsm.org/2020/index.html)                   | 2020-01-15 | Atlanta       | AAAI   |
@@ -20,6 +19,7 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :----: |
+| [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)                    | 2019-09-05 | New York      | AAAI   |
 | [WSDM 2020](http://www.wsdm-conference.org/2020/)                     | 2019-08-16 | Houston       | ACM    |
 | [ICDM 2019](http://icdm2019.bigke.org/)                               | 2019-06-05 | Beijing       | IEEE   | 
 | [CIKM 2019](http://www.cikm2019.net/index.html)                       | 2019-05-22 | Beijing       | ACM    |
