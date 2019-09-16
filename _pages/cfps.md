@@ -13,9 +13,9 @@ This page contains a collection of conferences and workshops that I'm interested
 | [WWW 2020](https://www2020.thewebconf.org/)                           | 2019-10-14 | Taibei        | ACM    |
 | [ICWSM 2020](https://www.icwsm.org/2020/index.html)                   | 2020-01-15 | Atlanta       | AAAI   |
 | [KDD 2020](https://www.kdd.org/kdd2020/)                              | 2020-XX-XX | San Diego     | ACM    |
-| [IJCAI 2020](http://ijcai19.org/)                                     | 2019-02-XX | Yokohama      | IJCAI  |
-| [CCS 2020](http://ccs2019.sigsac.org/)                                | 2019-XX-XX | London        | ACM    |
 | [ICML 2020](https://icml.cc/)                                         | 2020-01-XX | Vienna	     | ICML   |
+| [CCS 2020](http://ccs2019.sigsac.org/)                                | 2019-XX-XX | London        | ACM    |
+| [IJCAI 2020](http://ijcai19.org/)                                     | 2019-02-XX | Yokohama      | IJCAI  |
 
 ## Recently passed Conference & Workshops Deadlines
 
