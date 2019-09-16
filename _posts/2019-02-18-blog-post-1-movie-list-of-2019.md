@@ -40,3 +40,4 @@ A list records part of movies that I watched in 2019.
 - Taken 123 (飓风营救 123)
 - 万箭穿心 (Feng Shui)
 - Once Upon a Time In Hollywood (好莱坞往事)
+- Scent of a Woman (闻香识女人)
