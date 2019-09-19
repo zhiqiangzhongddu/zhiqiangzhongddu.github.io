@@ -13,9 +13,9 @@ This page contains a collection of conferences and workshops that I'm interested
 | [WWW 2020](https://www2020.thewebconf.org/)                           | 2019-10-14 | Taibei        | ACM    |
 | [ICWSM 2020](https://www.icwsm.org/2020/index.html)                   | 2020-01-15 | Atlanta       | AAAI   |
 | [KDD 2020](https://www.kdd.org/kdd2020/)                              | 2020-XX-XX | San Diego     | ACM    |
-| [ICML 2020](https://icml.cc/)                                         | 2020-01-XX | Vienna	     | ICML   |
-| [CCS 2020](http://ccs2019.sigsac.org/)                                | 2019-XX-XX | London        | ACM    |
-| [IJCAI 2020](http://ijcai19.org/)                                     | 2019-02-XX | Yokohama      | IJCAI  |
+| [IJCAI 2020](https://ijcai20.org/)                                    | 2020-01-21 | Yokohama      | IJCAI  |
+| [ICML 2020](https://icml.cc/)                                         | 2020-02-07 | Vienna	     | ICML   |
+| [CCS 2020](http://ccs2019.sigsac.org/)                                | 2020-XX-XX | London        | ACM    |
 
 ## Recently passed Conference & Workshops Deadlines
 
@@ -28,7 +28,5 @@ This page contains a collection of conferences and workshops that I'm interested
 | [CIKM 2019](http://www.cikm2019.net/index.html)                       | 2019-05-22 | Beijing       | ACM    |
 | [NeurIPS 2019](https://nips.cc/Conferences/2019/)                     | 2019-05-23 | Vancouver     | NIPS   |
 | [ACL 2019](http://www.acl2019.org/EN/index.xhtml)                     | 2019-03-04 | Florence      | ACL    |
-| [IJCAI 2019](http://ijcai19.org/)                                     | 2019-02-25 | Macao         | IJCAI  |
 | [CCS 2019](http://ccs2019.sigsac.org/)                                | 2019-01-31 | London        | ACM    |
-| [ICML 2019](https://icml.cc/)                                         | 2020-01-23 | Long Beach    | ICML   |
 | [EuroS&P 2019](https://www.ieee-security.org/TC/EuroSP2019/index.php) | 2018-11-03 | Stockholm     | IEEE   |
