@@ -20,3 +20,4 @@ A list records part of books that I read in 2019.
 - Old man and the sea (老人与海)
 - Le piège américain (美国陷阱)
 - Voices from Chernobyl (切尔诺贝利的悲鸣)
+- 三国演义 (Romance of the Three Kingdoms)
