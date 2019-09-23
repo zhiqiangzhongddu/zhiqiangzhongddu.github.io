@@ -42,3 +42,4 @@ A list records part of movies that I watched in 2019.
 - Once Upon a Time In Hollywood (好莱坞往事)
 - Scent of a Woman (闻香识女人)
 - It Chapter Two (牠：第二章)
+- Roma (罗马)
