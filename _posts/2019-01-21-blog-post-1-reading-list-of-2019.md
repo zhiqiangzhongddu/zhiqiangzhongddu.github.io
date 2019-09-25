@@ -21,3 +21,5 @@ A list records part of books that I read in 2019.
 - Le piège américain (美国陷阱)
 - Voices from Chernobyl (切尔诺贝利的悲鸣)
 - 三国演义 (Romance of the Three Kingdoms)
+- 源氏物語 (源氏物语)
+
