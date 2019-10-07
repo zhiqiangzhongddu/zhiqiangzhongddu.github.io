@@ -43,3 +43,4 @@ A list records part of movies that I watched in 2019.
 - Scent of a Woman (闻香识女人)
 - It Chapter Two (牠：第二章)
 - Roma (罗马)
+- Gemini Man (双子杀手)
