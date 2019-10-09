@@ -11,6 +11,7 @@ This page contains a collection of conferences and workshops that I'm interested
 | Name                                                                  | Deadline   | Location      | Format |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :----: |
 | [WWW 2020](https://www2020.thewebconf.org/)                           | 2019-10-14 | Taibei        | ACM    |
+| [EuroS&P 2020](http://www.ieee-security.org/TC/EuroSP2020/index.html) | 2019-11-20 | Genova        | IEEE   |
 | [ICWSM 2020](https://www.icwsm.org/2020/index.html)                   | 2020-01-15 | Atlanta       | AAAI   |
 | [KDD 2020](https://www.kdd.org/kdd2020/)                              | 2020-XX-XX | San Diego     | ACM    |
 | [IJCAI 2020](https://ijcai20.org/)                                    | 2020-01-21 | Yokohama      | IJCAI  |
@@ -30,4 +31,3 @@ This page contains a collection of conferences and workshops that I'm interested
 | [NeurIPS 2019](https://nips.cc/Conferences/2019/)                     | 2019-05-23 | Vancouver     | NIPS   |
 | [ACL 2019](http://www.acl2019.org/EN/index.xhtml)                     | 2019-03-04 | Florence      | ACL    |
 | [CCS 2019](http://ccs2019.sigsac.org/)                                | 2019-01-31 | London        | ACM    |
-| [EuroS&P 2019](https://www.ieee-security.org/TC/EuroSP2019/index.php) | 2018-11-03 | Stockholm     | IEEE   |
