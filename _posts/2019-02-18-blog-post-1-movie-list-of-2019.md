@@ -44,3 +44,6 @@ A list records part of movies that I watched in 2019.
 - It Chapter Two (牠：第二章)
 - Roma (罗马)
 - Gemini Man (双子杀手)
+- 哪吒之魔童降世 (Ne Zha)
+- Joker
+- 使徒行者2: 谍影行动 (Line Walker 2: Invisible Spy)
