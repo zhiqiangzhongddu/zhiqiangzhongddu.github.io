@@ -7,6 +7,8 @@ author_profile: true
 A list of conferences, workshops, schools, competitions, etc. that I have attended. 
 
 ## 2019
+Attend the *ACM-IMC Conference*, 21st-23th October 2019, Amsterdam, Netherlands.
+
 Attend the *ACM-IMC Shadow PC meeting*, 29th July 2019, Queen Mary University of London, UK.
 
 Organize as a local organizer and attend the [UniGR Summer School on Verification Technology, Systems and Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa19/) (**VTSA** 2019), 1st-5th July, University of Luxembourg, Belval, Luxembourg. 

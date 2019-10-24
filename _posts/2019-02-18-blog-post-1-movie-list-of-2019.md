@@ -47,3 +47,8 @@ A list records part of movies that I watched in 2019.
 - 哪吒之魔童降世 (Ne Zha)
 - Joker
 - 使徒行者2: 谍影行动 (Line Walker 2: Invisible Spy)
+- 无间道 (Infernal Affairs)
+- The Martian (火星救援)
+- Inside Job (监守自盗)
+- V for Vendetta (V字仇杀队)
+- 阿飞正传 (Days of Being Wild)
