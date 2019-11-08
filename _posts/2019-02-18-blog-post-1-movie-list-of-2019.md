@@ -52,3 +52,4 @@ A list records part of movies that I watched in 2019.
 - Inside Job (监守自盗)
 - V for Vendetta (V字仇杀队)
 - 阿飞正传 (Days of Being Wild)
+- Begin Again (再次出发)
