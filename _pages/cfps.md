@@ -12,9 +12,9 @@ This page contains a collection of conferences and workshops that I'm interested
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :----: |
 | [EuroS&P 2020](http://www.ieee-security.org/TC/EuroSP2020/index.html) | 2019-11-20 | Genova        | IEEE   |
 | [ICWSM 2020](https://www.icwsm.org/2020/index.html)                   | 2020-01-15 | Atlanta       | AAAI   |
-| [KDD 2020](https://www.kdd.org/kdd2020/)                              | 2020-XX-XX | San Diego     | ACM    |
 | [IJCAI 2020](https://ijcai20.org/)                                    | 2020-01-21 | Yokohama      | IJCAI  |
 | [ICML 2020](https://icml.cc/)                                         | 2020-02-07 | Vienna	     | ICML   |
+| [KDD 2020](https://www.kdd.org/kdd2020/)                              | 2020-02-13 | San Diego     | ACM    |
 | [CCS 2020](http://ccs2019.sigsac.org/)                                | 2020-XX-XX | London        | ACM    |
 
 ## Recently passed Conference & Workshops Deadlines
