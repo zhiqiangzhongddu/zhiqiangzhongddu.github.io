@@ -10,7 +10,6 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :----: |
-| [EuroS&P 2020](http://www.ieee-security.org/TC/EuroSP2020/index.html) | 2019-11-20 | Genova        | IEEE   |
 | [ICWSM 2020](https://www.icwsm.org/2020/index.html)                   | 2020-01-15 | Atlanta       | AAAI   |
 | [IJCAI 2020](https://ijcai20.org/)                                    | 2020-01-21 | Yokohama      | IJCAI  |
 | [ICML 2020](https://icml.cc/)                                         | 2020-02-07 | Vienna	     | ICML   |
@@ -21,6 +20,7 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :----: |
+| [EuroS&P 2020](http://www.ieee-security.org/TC/EuroSP2020/index.html) | 2019-11-20 | Genova        | IEEE   |
 | [WWW 2020](https://www2020.thewebconf.org/)                           | 2019-10-14 | Taibei        | ACM    |
 | [ICLR 2020](https://iclr.cc/Conferences/2020)                         | 2019-09-25 | Addis Ababa   | ICLR   |
 | [NDSS 2020](https://www.ndss-symposium.org/ndss2020/)                 | 2019-09-13 | San Diego     | NDSS   |
