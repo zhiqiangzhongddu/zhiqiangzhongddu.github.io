@@ -54,3 +54,4 @@ A list records part of movies that I watched in 2019.
 - V for Vendetta (V字仇杀队)
 - 阿飞正传 (Days of Being Wild)
 - Begin Again (再次出发)
+- Prometheus (普罗米修斯)

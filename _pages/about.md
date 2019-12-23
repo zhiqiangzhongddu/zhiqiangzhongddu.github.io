@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-PhD student at the [University of Luxembourg](https://wwwen.uni.lu/) under supervision of [Dr. Jun Pang](http://satoss.uni.lu/members/jun/) within the [SaToSS](http://satoss.uni.lu/) group. Technology focused on social network and graph neural networks.
+PhD student at the [University of Luxembourg](https://wwwen.uni.lu/) under supervision of [Dr. Jun Pang](http://satoss.uni.lu/members/jun/) within the [SaToSS](http://satoss.uni.lu/) group. Technology focused on Online Social Network (OSN), Graph Neural Networks (GNNs) and Machine Learning (ML) on graphs.
 
 Master in Information & Finance and Second Master in Data Science, Bachelor in Mathematics.
-
-Excellent ability to work in a multicultural team. 
-Solid statistic knowledge and familiar with machine learning algorithms. 
 
 ## Competitions
 [Kaggle Master](https://www.kaggle.com/zhiqiangzhong), rank 525.
