@@ -55,3 +55,6 @@ A list records part of movies that I watched in 2019.
 - 阿飞正传 (Days of Being Wild)
 - Begin Again (再次出发)
 - Prometheus (普罗米修斯)
+- 南方车站的聚会 (The Wild Goose Lake)
+- 白日焰火 (Black Coal, Thin Ice)
+- Django Unchained (被解救的姜戈)
