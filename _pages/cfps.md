@@ -10,14 +10,18 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :----: |
-| [ICML 2020](https://icml.cc/)                                         | 2020-02-07 | Vienna	     | ICML   |
-| [KDD 2020](https://www.kdd.org/kdd2020/)                              | 2020-02-13 | San Diego     | ACM    |
-| [CCS 2020](http://ccs2019.sigsac.org/)                                | 2020-XX-XX | London        | ACM    |
+| [CCS 2020](https://www.sigsac.org/ccs/CCS2020/index.html)             | 2020-05-04 | Orlando       | ACM    |
+| [NeurIPS 2020](https://nips.cc/Conferences/2019/)                     | 2020-XX-XX | XX            | NIPS   |
+| [CIKM 2020](https://cikm2020.org/)                                    | 2020-06-01 | Galway        | ACM    |
+| [ICDM 2020](http://icdm2020.bigke.org/)                               | 2020-06-02 | Sorrento      | IEEE   | 
+
 
 ## Recently passed Conference & Workshops Deadlines
 
 | Name                                                                  | Deadline   | Location      | Format |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :----: |
+| [KDD 2020](https://www.kdd.org/kdd2020/)                              | 2020-02-13 | San Diego     | ACM    |
+| [ICML 2020](https://icml.cc/)                                         | 2020-02-07 | Vienna	     | ICML   |
 | [ICWSM 2020](https://www.icwsm.org/2020/index.html)                   | 2020-01-15 | Atlanta       | AAAI   |
 | [IJCAI 2020](https://ijcai20.org/)                                    | 2020-01-21 | Yokohama      | IJCAI  |
 | [EuroS&P 2020](http://www.ieee-security.org/TC/EuroSP2020/index.html) | 2019-11-20 | Genova        | IEEE   |
@@ -26,8 +30,4 @@ This page contains a collection of conferences and workshops that I'm interested
 | [NDSS 2020](https://www.ndss-symposium.org/ndss2020/)                 | 2019-09-13 | San Diego     | NDSS   |
 | [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)                    | 2019-09-05 | New York      | AAAI   |
 | [WSDM 2020](http://www.wsdm-conference.org/2020/)                     | 2019-08-16 | Houston       | ACM    |
-| [ICDM 2019](http://icdm2019.bigke.org/)                               | 2019-06-05 | Beijing       | IEEE   | 
-| [CIKM 2019](http://www.cikm2019.net/index.html)                       | 2019-05-22 | Beijing       | ACM    |
 | [NeurIPS 2019](https://nips.cc/Conferences/2019/)                     | 2019-05-23 | Vancouver     | NIPS   |
-| [ACL 2019](http://www.acl2019.org/EN/index.xhtml)                     | 2019-03-04 | Florence      | ACL    |
-| [CCS 2019](http://ccs2019.sigsac.org/)                                | 2019-01-31 | London        | ACM    |
