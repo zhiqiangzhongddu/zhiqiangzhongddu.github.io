@@ -11,7 +11,7 @@ This page contains a collection of conferences and workshops that I'm interested
 | Name                                                                  | Deadline   | Location      | Format |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :----: |
 | [CCS 2020](https://www.sigsac.org/ccs/CCS2020/index.html)             | 2020-05-04 | Orlando       | ACM    |
-| [NeurIPS 2020](https://nips.cc/Conferences/2019/)                     | 2020-XX-XX | XX            | NIPS   |
+| [NeurIPS 2020](https://nips.cc/Conferences/2020/)                     | 2020-05-12 | Vancouver     | NIPS   |
 | [CIKM 2020](https://cikm2020.org/)                                    | 2020-06-01 | Galway        | ACM    |
 | [ICDM 2020](http://icdm2020.bigke.org/)                               | 2020-06-02 | Sorrento      | IEEE   | 
 
