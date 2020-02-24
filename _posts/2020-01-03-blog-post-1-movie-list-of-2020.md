@@ -17,3 +17,6 @@ A list records part of movies that I watched in 2020.
 - 我和我的祖国 (My People, My Country)
 - 赤壁 (Red Cliff)
 - The Intern (实习生)
+- 撞死了一只羊 (Jinpa)
+-The Hobbit 1-3 (霍比特人)
+- Sex Education - 2nd season (drama TV series) (性爱自修室)
