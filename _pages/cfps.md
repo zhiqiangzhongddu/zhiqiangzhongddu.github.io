@@ -8,12 +8,14 @@ This page contains a collection of conferences and workshops that I'm interested
 
 ## Upcoming Conference & Workshops Deadlines
 
-| Name                                                                  | Deadline   | Location      | Format |
-| :-------------------------------------------------------------------: | :--------: | :-----------: | :----: |
-| [CCS 2020](https://www.sigsac.org/ccs/CCS2020/index.html)             | 2020-05-04 | Orlando       | ACM    |
-| [NeurIPS 2020](https://nips.cc/Conferences/2020/)                     | 2020-05-12 | Vancouver     | NIPS   |
-| [CIKM 2020](https://cikm2020.org/)                                    | 2020-06-01 | Galway        | ACM    |
-| [ICDM 2020](http://icdm2020.bigke.org/)                               | 2020-06-02 | Sorrento      | IEEE   | 
+| Name                                                                  | Deadline   | Location      | Format 	|
+| :-------------------------------------------------------------------: | :--------: | :-----------: | :----: 	|
+| [ECML-PKDD 2020](https://ecmlpkdd2020.net/)             				| 2020-03-26 | Ghent       	 | Springer	|
+| [ASONAM 2020](http://asonam.cpsc.ucalgary.ca/2020/index.php)          | 2020-04-05 | Hague       	 | IEEE    	|
+| [CCS 2020](https://www.sigsac.org/ccs/CCS2020/index.html)             | 2020-05-04 | Orlando       | ACM    	|
+| [NeurIPS 2020](https://nips.cc/Conferences/2020/)                     | 2020-05-12 | Vancouver     | NIPS   	|
+| [CIKM 2020](https://cikm2020.org/)                                    | 2020-06-01 | Galway        | ACM    	|
+| [ICDM 2020](http://icdm2020.bigke.org/)                               | 2020-06-02 | Sorrento      | IEEE   	| 
 
 
 ## Recently passed Conference & Workshops Deadlines
