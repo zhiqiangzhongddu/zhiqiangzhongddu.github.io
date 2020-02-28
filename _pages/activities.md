@@ -6,6 +6,9 @@ author_profile: true
 
 A list of conferences, workshops, schools, competitions, etc. that I have attended. 
 
+## 2020
+PC member of *SocInfo-20* conference.
+
 ## 2019
 Attend the *ACM-IMC Conference*, 21st-23th October 2019, Amsterdam, Netherlands.
 
