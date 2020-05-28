@@ -10,7 +10,6 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format 	|
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
-| [CIKM 2020](https://cikm2020.org/)                                    | 2020-05-15 | Galway        | ACM    	|
 | [NeurIPS 2020](https://nips.cc/Conferences/2020/)                     | 2020-06-03 | Vancouver     | NIPS   	|
 | [ICDM 2020](http://icdm2020.bigke.org/)                               | 2020-06-11 | Sorrento      | IEEE   	| 
 | [WSDM 2021](http://www.wsdm-conference.org/2021/)                     | 2020-08-16 | Jerusalem     | ACM      |
@@ -20,6 +19,7 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format   |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
+| [CIKM 2020](https://cikm2020.org/)                                    | 2020-05-15 | Galway        | ACM    	|
 | [ECML-PKDD 2020](https://ecmlpkdd2020.net/)             				| 2020-04-02 | Ghent       	 | Springer	|
 | [ASONAM 2020](http://asonam.cpsc.ucalgary.ca/2020/index.php)          | 2020-04-05 | Hague       	 | IEEE    	|
 | [CCS 2020](https://www.sigsac.org/ccs/CCS2020/index.html)             | 2020-05-04 | Orlando       | ACM    	|
