@@ -10,6 +10,17 @@ tags:
 A list records part of movies that I watched in 2020.
 
 ## Movie list - 2020
+- Project Gutenberg (无双)
+- Get Out (逃出绝命镇)
+- Star Wars (星球大战)
+- Recall 1988 (请回答1988)
+- Gone Girl (消失的爱人)
+- The Green Mile (绿里奇迹)
+- The Pianist (钢琴家)
+- Yojimbo (大鏢客)
+- Parasite (寄生虫)
+- New World (新世界)
+- Kim Ji-young: Born 1982 (82年生的金智英)
 - The King's Speech (国王的演讲)
 - 少年的你 (Better Days)
 - The Pursuit of Happyness (当幸福来敲门)
