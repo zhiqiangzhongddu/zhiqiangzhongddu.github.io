@@ -27,6 +27,6 @@ This page contains a collection of conferences and workshops that I'm interested
 | [KDD 2020](https://www.kdd.org/kdd2020/)                              | 2020-02-13 | San Diego     | ACM      |
 | [ICML 2020](https://icml.cc/)                                         | 2020-02-07 | Vienna	     | ICML     |
 | [IJCAI 2020](https://ijcai20.org/)                                    | 2020-01-21 | Yokohama      | IJCAI    |
-| [SIGIR 2020](https://sigir.org/sigir2020/)                            | 2020-01-15 | Xian          | ACM      |
+| [SIGIR 2020](https://sigir.org/sigir2020/)                            | 2020-01-22 | Xian          | ACM      |
 | [WWW 2020](https://www2020.thewebconf.org/)                           | 2019-10-14 | Taibei        | ACM      |
 | [ICLR 2020](https://iclr.cc/Conferences/2020)                         | 2019-09-25 | Addis Ababa   | ICLR     |
