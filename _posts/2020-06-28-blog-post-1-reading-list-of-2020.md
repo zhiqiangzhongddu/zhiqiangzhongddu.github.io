@@ -13,3 +13,5 @@ A list records part of books that I read in 2020.
 
 - 平凡的世界 (Ordinary World)
 - 中国历代政治得失
+- 水流云在——英若诚自传
+- 中国国家治理的制度逻辑 
