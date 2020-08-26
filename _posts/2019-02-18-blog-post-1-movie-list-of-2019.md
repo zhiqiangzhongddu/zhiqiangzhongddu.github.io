@@ -60,3 +60,4 @@ A list records part of movies that I watched in 2019.
 - Django Unchained (被解救的姜戈)
 - Only the Brave (勇往直前)
 - Meet Joe Black (第六感生死缘)
+- 8 Miles (八英里)
