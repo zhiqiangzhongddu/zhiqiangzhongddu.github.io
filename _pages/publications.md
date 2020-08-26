@@ -10,7 +10,7 @@ author_profile: true
 Ninghan Chen, **Zhiqiang Zhong**, Jun Pang \
 *Preprint at Arxiv*
 
-\
+\\
 <font color="#1589F0">NeuLP: An End-to-end Deep-learning Model for Link Prediction</font>  
 **Zhiqiang Zhong**, Yang Zhang, Jun Pang\
 *In Proceedings of the 21th International Conference on Web Information Systems Engineering (WISE’20)*
