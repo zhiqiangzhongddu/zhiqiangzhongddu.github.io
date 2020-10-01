@@ -10,8 +10,6 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format 	|
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
-| [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)                    | 2020-09-09 | Vancouver     | AAAI     |
-| [AAAI-NeurIPS track 2021](https://aaai.org/Conferences/AAAI-21/)      | 2020-09-29 | Vancouver     | AAAI     |
 | [ICLR 2021](https://iclr.cc/Conferences/2021)                         | 2020-10-02 | Vienna        | ICLR     |
 | [WWW 2021](http://www2021.thewebconf.org/)                            | 2020-10-12 | Ljubljana     | ACM      |
 
@@ -19,6 +17,8 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format   |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
+| [AAAI-NeurIPS track 2021](https://aaai.org/Conferences/AAAI-21/)      | 2020-09-29 | Vancouver     | AAAI     |
+| [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)                    | 2020-09-09 | Vancouver     | AAAI     |
 | [WSDM 2021](http://www.wsdm-conference.org/2021/)                     | 2020-08-16 | Jerusalem     | ACM      |
 | [ICDM 2020](http://icdm2020.bigke.org/)                               | 2020-06-11 | Sorrento      | IEEE   	| 
 | [NeurIPS 2020](https://nips.cc/Conferences/2020/)                     | 2020-06-03 | Vancouver     | NIPS   	|
