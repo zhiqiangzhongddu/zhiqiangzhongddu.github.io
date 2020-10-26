@@ -15,3 +15,5 @@ A list records part of books that I read in 2020.
 - 中国历代政治得失
 - 水流云在——英若诚自传
 - 中国国家治理的制度逻辑 
+- 中国通史
+- Steppenwolf (荒原狼)

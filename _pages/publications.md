@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## 2020
+<font color="#1589F0">Reinforcement Learning Enhanced Heterogeneous Graph Neural Network</font>
+**Zhiqiang Zhong**, Cheng-te Li, Jun Pang  
+*Preprint at Arxiv*
+
 <font color="#1589F0">Adaptive Multi-grained Graph Neural Networks</font>
 **Zhiqiang Zhong**, Cheng-te Li, Jun Pang  
 *Preprint at Arxiv*
