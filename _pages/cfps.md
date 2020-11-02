@@ -10,14 +10,15 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format 	|
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
-| [WWW 2021](http://www2021.thewebconf.org/)                            | 2020-10-12 | Ljubljana     | ACM      |
+| [IJCAI 2021](https://ijcai-21.org/)                                   | 2021-01-18 | MONTRÉAL      | IJCAI    |
+| [ICML 2021](https://icml.cc/Conferences/2021)                         | 2020-02-04 | Vienna	     | ICML     |
 | [SIGIR 2021](http://sigir.org/sigir2021/)                             | 2021-02-09 | MONTRÉAL      | ACM      |
-| [IJCAI 2020](https://ijcai-21.org/)                                   | 2021-01-18 | MONTRÉAL      | IJCAI    |
 
 ## Recently passed Conference & Workshops Deadlines
 
 | Name                                                                  | Deadline   | Location      | Format   |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
+| [WWW 2021](http://www2021.thewebconf.org/)                            | 2020-10-12 | Ljubljana     | ACM      |
 | [ICLR 2021](https://iclr.cc/Conferences/2021)                         | 2020-10-02 | Vienna        | ICLR     |
 | [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)                    | 2020-09-09 | Vancouver     | AAAI     |
 | [WSDM 2021](http://www.wsdm-conference.org/2021/)                     | 2020-08-16 | Jerusalem     | ACM      |
@@ -28,4 +29,3 @@ This page contains a collection of conferences and workshops that I'm interested
 | [ASONAM 2020](http://asonam.cpsc.ucalgary.ca/2020/index.php)          | 2020-04-05 | Hague       	 | IEEE    	|
 | [CCS 2020](https://www.sigsac.org/ccs/CCS2020/index.html)             | 2020-05-04 | Orlando       | ACM    	|
 | [KDD 2020](https://www.kdd.org/kdd2020/)                              | 2020-02-13 | San Diego     | ACM      |
-| [ICML 2020](https://icml.cc/)                                         | 2020-02-07 | Vienna	     | ICML     |
