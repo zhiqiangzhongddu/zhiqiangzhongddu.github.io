@@ -12,6 +12,7 @@ This page contains a collection of conferences and workshops that I'm interested
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
 | [IJCAI 2021](https://ijcai-21.org/)                                   | 2021-01-18 | MONTRÉAL      | IJCAI    |
 | [ICML 2021](https://icml.cc/Conferences/2021)                         | 2020-02-04 | Vienna	     | ICML     |
+| [KDD 2021](https://www.kdd.org/kdd2021/)                              | 2020-02-08 | SINGAPORE     | ACM      |
 | [SIGIR 2021](http://sigir.org/sigir2021/)                             | 2021-02-09 | MONTRÉAL      | ACM      |
 
 ## Recently passed Conference & Workshops Deadlines
@@ -25,7 +26,6 @@ This page contains a collection of conferences and workshops that I'm interested
 | [ICDM 2020](http://icdm2020.bigke.org/)                               | 2020-06-11 | Sorrento      | IEEE   	| 
 | [NeurIPS 2020](https://nips.cc/Conferences/2020/)                     | 2020-06-03 | Vancouver     | NIPS   	|
 | [CIKM 2020](https://cikm2020.org/)                                    | 2020-05-15 | Galway        | ACM    	|
+| [CCS 2020](https://www.sigsac.org/ccs/CCS2020/index.html)             | 2020-05-04 | Orlando       | ACM    	|
 | [ECML-PKDD 2020](https://ecmlpkdd2020.net/)             				| 2020-04-02 | Ghent       	 | Springer	|
 | [ASONAM 2020](http://asonam.cpsc.ucalgary.ca/2020/index.php)          | 2020-04-05 | Hague       	 | IEEE    	|
-| [CCS 2020](https://www.sigsac.org/ccs/CCS2020/index.html)             | 2020-05-04 | Orlando       | ACM    	|
-| [KDD 2020](https://www.kdd.org/kdd2020/)                              | 2020-02-13 | San Diego     | ACM      |
