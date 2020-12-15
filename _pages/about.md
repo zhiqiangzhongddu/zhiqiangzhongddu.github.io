@@ -16,9 +16,9 @@ Master in Information & Finance and Second Master in Data Science, Bachelor in M
 [Kaggle Master](https://www.kaggle.com/zhiqiangzhong), rank 525.
 
 ## What's New
-Attend the *ACM-IMC Conference*, 21st-23th October 2019, Amsterdam, Netherlands.
+One long paper got accepted by *WISE-2020*.
 
-One long paper got accepted by *WISE-2019*.
+Attend the *ACM-IMC Conference*, 21st-23th October 2019, Amsterdam, Netherlands.
 
 Attend the *ACM-IMC Shadow PC meeting*, 29th July 2019, Queen Mary University of London, UK.
 

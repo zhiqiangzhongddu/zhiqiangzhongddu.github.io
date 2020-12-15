@@ -7,12 +7,20 @@ author_profile: true
 A list of conferences, workshops, schools, competitions, etc. that I have attended. 
 
 ## 2020
+Attend the *SanDAL Winter School*, 7th-11th December 2020, Online.
+
+Reviewer of *TheWeb-21*(WWW-21) conference.
+
+Work as Teaching Assistant of course Distributed Systems, 1st semester of 2020-2021.
+
 PC member of *SocInfo-20* conference.
 
 PC member of *ECML-PKDD-20* conference.
 
 ## 2019
 Attend the *ACM-IMC Conference*, 21st-23th October 2019, Amsterdam, Netherlands.
+
+Work as Teaching Assistant of course Distributed Systems, 1st semester of 2019-2020.
 
 Attend the *ACM-IMC Shadow PC meeting*, 29th July 2019, Queen Mary University of London, UK.
 
