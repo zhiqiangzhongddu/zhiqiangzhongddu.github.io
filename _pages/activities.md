@@ -7,7 +7,7 @@ author_profile: true
 A list of conferences, workshops, schools, competitions, etc. that I have attended. 
 
 ## 2020
-Attend the *SanDAL Winter School*, 7th-11th December 2020, Online.
+Attend the *SanDAL Winter School* and gave a oral presentation, 7th-11th December 2020, Online.
 
 Reviewer of *TheWeb-21*(WWW-21) conference.
 
