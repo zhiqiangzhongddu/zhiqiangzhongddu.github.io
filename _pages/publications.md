@@ -24,7 +24,7 @@ Ninghan Chen, **Zhiqiang Zhong**, Jun Pang
 
 <font color="#1589F0">An Exploratory Study of COVID-19 Information on Twitter in the Greater Region</font>
 Ninghan Chen, **Zhiqiang Zhong**, Jun Pang  
-*Preprint at Arxiv*
+*Journal of Big Data and Cognitive Computing*
 
 <font color="#1589F0">NeuLP: An End-to-end Deep-learning Model for Link Prediction</font>
 **Zhiqiang Zhong**, Yang Zhang, Jun Pang  
