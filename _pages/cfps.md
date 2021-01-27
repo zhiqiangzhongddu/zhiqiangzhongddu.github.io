@@ -10,7 +10,6 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format 	|
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
-| [IJCAI 2021](https://ijcai-21.org/)                                   | 2021-01-18 | MONTRÉAL      | IJCAI    |
 | [ECML-PKDD 2021 (Journal)](https://2021.ecmlpkdd.org/)             	| 2021-01-31 | Bilbao        | Springer	|
 | [ICML 2021](https://icml.cc/Conferences/2021)                         | 2021-02-04 | Vienna	     | ICML     |
 | [KDD 2021](https://www.kdd.org/kdd2021/)                              | 2021-02-08 | SINGAPORE     | ACM      |
@@ -20,6 +19,7 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format   |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
+| [IJCAI 2021](https://ijcai-21.org/)                                   | 2021-01-18 | MONTRÉAL      | IJCAI    |
 | [WWW 2021](http://www2021.thewebconf.org/)                            | 2020-10-12 | Ljubljana     | ACM      |
 | [ICLR 2021](https://iclr.cc/Conferences/2021)                         | 2020-10-02 | Vienna        | ICLR     |
 | [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)                    | 2020-09-09 | Vancouver     | AAAI     |
