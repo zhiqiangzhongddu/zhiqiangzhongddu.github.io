@@ -11,15 +11,15 @@ Ninghan Chen, **Zhiqiang Zhong**, Jun Pang
 *Preprint at Arxiv*
 
 <font color="#1589F0">Reinforcement Learning Enhanced Heterogeneous Graph Neural Network</font>
-**Zhiqiang Zhong**, Cheng-te Li, Jun Pang  
+**Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
 *Preprint at Arxiv*
 
 <font color="#1589F0">Adaptive Multi-grained Graph Neural Networks</font>
-**Zhiqiang Zhong**, Cheng-te Li, Jun Pang  
+**Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
 *Preprint at Arxiv*
 
 <font color="#1589F0">Hierarchical Message-Passing Graph Neural Networks</font>
-**Zhiqiang Zhong**, Cheng-te Li, Jun Pang  
+**Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
 *Preprint at Arxiv*
 
 <font color="#1589F0">An Exploratory Study of COVID-19 Information on Twitter in the Greater Region</font>
