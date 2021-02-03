@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2021
+<font color="#1589F0">An Exploratory Study of COVID-19 Information on Twitter in the Greater Region</font>
+Ninghan Chen, **Zhiqiang Zhong**, Jun Pang  
+*Journal of Big Data and Cognitive Computing*
 
 ## 2020
 <font color="#1589F0">From #Jobsearch to #Mask: Improving COVID-19 Cascade Prediction with Spillover Effects</font>
@@ -21,10 +25,6 @@ Ninghan Chen, **Zhiqiang Zhong**, Jun Pang
 <font color="#1589F0">Hierarchical Message-Passing Graph Neural Networks</font>
 **Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
 *Preprint at Arxiv*
-
-<font color="#1589F0">An Exploratory Study of COVID-19 Information on Twitter in the Greater Region</font>
-Ninghan Chen, **Zhiqiang Zhong**, Jun Pang  
-*Journal of Big Data and Cognitive Computing*
 
 <font color="#1589F0">NeuLP: An End-to-end Deep-learning Model for Link Prediction</font>
 **Zhiqiang Zhong**, Yang Zhang, Jun Pang  
