@@ -6,7 +6,7 @@ author_profile: true
 
 A list of conferences, workshops, schools, competitions, etc. that I have attended. 
 
-## 2020
+## 2021
 PC member of *SocialNLP* workshop @*TheWeb-21*(WWW-21) conference.
 
 ## 2020
