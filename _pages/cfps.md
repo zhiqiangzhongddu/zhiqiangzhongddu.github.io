@@ -10,15 +10,16 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format 	|
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
-| [ECML-PKDD 2021 (Journal)](https://2021.ecmlpkdd.org/)             	| 2021-01-31 | Bilbao        | Springer	|
-| [ICML 2021](https://icml.cc/Conferences/2021)                         | 2021-02-04 | Vienna	     | ICML     |
-| [KDD 2021](https://www.kdd.org/kdd2021/)                              | 2021-02-08 | SINGAPORE     | ACM      |
-| [SIGIR 2021](http://sigir.org/sigir2021/)                             | 2021-02-09 | MONTRÉAL      | ACM      |
+| [ECML-PKDD 2021 (Conference)](https://2021.ecmlpkdd.org/)             | 2021-04-02 | Bilbao        | Springer	|
+| [ECML-PKDD 2021 (Journal)](https://2021.ecmlpkdd.org/)             	| 2021-05-02 | Bilbao        | Springer	|
 
 ## Recently passed Conference & Workshops Deadlines
 
 | Name                                                                  | Deadline   | Location      | Format   |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
+| [SIGIR 2021](http://sigir.org/sigir2021/)                             | 2021-02-09 | MONTRÉAL      | ACM      |
+| [KDD 2021](https://www.kdd.org/kdd2021/)                              | 2021-02-08 | SINGAPORE     | ACM      |
+| [ICML 2021](https://icml.cc/Conferences/2021)                         | 2021-02-04 | Vienna	     | ICML     |
 | [IJCAI 2021](https://ijcai-21.org/)                                   | 2021-01-18 | MONTRÉAL      | IJCAI    |
 | [WWW 2021](http://www2021.thewebconf.org/)                            | 2020-10-12 | Ljubljana     | ACM      |
 | [ICLR 2021](https://iclr.cc/Conferences/2021)                         | 2020-10-02 | Vienna        | ICLR     |
@@ -27,6 +28,4 @@ This page contains a collection of conferences and workshops that I'm interested
 | [ICDM 2020](http://icdm2020.bigke.org/)                               | 2020-06-11 | Sorrento      | IEEE   	| 
 | [NeurIPS 2020](https://nips.cc/Conferences/2020/)                     | 2020-06-03 | Vancouver     | NIPS   	|
 | [CIKM 2020](https://cikm2020.org/)                                    | 2020-05-15 | Galway        | ACM    	|
-| [CCS 2020](https://www.sigsac.org/ccs/CCS2020/index.html)             | 2020-05-04 | Orlando       | ACM    	|
-| [ECML-PKDD 2020 (Conference)](https://ecmlpkdd2020.net/)             	| 2020-04-02 | Ghent       	 | Springer	|
 | [ASONAM 2020](http://asonam.cpsc.ucalgary.ca/2020/index.php)          | 2020-04-05 | Hague       	 | IEEE    	|
