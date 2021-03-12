@@ -12,6 +12,9 @@ This page contains a collection of conferences and workshops that I'm interested
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
 | [ECML-PKDD 2021 (Conference)](https://2021.ecmlpkdd.org/)             | 2021-04-02 | Bilbao        | Springer	|
 | [ECML-PKDD 2021 (Journal)](https://2021.ecmlpkdd.org/)             	| 2021-05-02 | Bilbao        | Springer	|
+| [NeurIPS 2021](https://nips.cc/Conferences/2021/)                     | 2021-05-26 | Virtual       | NIPS   	|
+| [ICDM 2021](https://icdm2021.auckland.ac.nz/)                         | 2021-06-11 | Auckland      | IEEE   	|
+| [ASONAM 2021](http://asonam.cpsc.ucalgary.ca/2021/)                   | 2021-06-16 | Hague       	 | IEEE    	|
 
 ## Recently passed Conference & Workshops Deadlines
 
@@ -24,8 +27,5 @@ This page contains a collection of conferences and workshops that I'm interested
 | [WWW 2021](http://www2021.thewebconf.org/)                            | 2020-10-12 | Ljubljana     | ACM      |
 | [ICLR 2021](https://iclr.cc/Conferences/2021)                         | 2020-10-02 | Vienna        | ICLR     |
 | [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)                    | 2020-09-09 | Vancouver     | AAAI     |
-| [WSDM 2021](http://www.wsdm-conference.org/2021/)                     | 2020-08-16 | Jerusalem     | ACM      |
-| [ICDM 2020](http://icdm2020.bigke.org/)                               | 2020-06-11 | Sorrento      | IEEE   	| 
-| [NeurIPS 2020](https://nips.cc/Conferences/2020/)                     | 2020-06-03 | Vancouver     | NIPS   	|
+| [WSDM 2021](http://www.wsdm-conference.org/2021/)                     | 2020-08-16 | Jerusalem     | ACM      | 
 | [CIKM 2020](https://cikm2020.org/)                                    | 2020-05-15 | Galway        | ACM    	|
-| [ASONAM 2020](http://asonam.cpsc.ucalgary.ca/2020/index.php)          | 2020-04-05 | Hague       	 | IEEE    	|
