@@ -12,3 +12,4 @@ A list records part of books that I read in 2021.
 ## Reading List - 2021
 
 - 曾国藩家书
+- 经济学通识
