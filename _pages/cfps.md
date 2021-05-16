@@ -10,7 +10,7 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format 	|
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
-| [CIKM 2021 ](https://www.cikm2021.org/)                               | 2021-05-19 | Queensland    | ACM    	|
+| [CIKM 2021 (abstract)](https://www.cikm2021.org/)                     | 2021-05-19 | Queensland    | ACM    	|
 | [CIKM 2021 ](https://www.cikm2021.org/)                               | 2021-05-26 | Queensland    | ACM    	|
 | [NeurIPS 2021](https://nips.cc/Conferences/2021/)                     | 2021-05-26 | Virtual       | NIPS   	|
 | [ICDM 2021](https://icdm2021.auckland.ac.nz/)                         | 2021-06-11 | Auckland      | IEEE   	|
