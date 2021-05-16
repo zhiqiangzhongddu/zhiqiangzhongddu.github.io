@@ -10,16 +10,19 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format 	|
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
-| [ECML-PKDD 2021 (Conference)](https://2021.ecmlpkdd.org/)             | 2021-04-02 | Bilbao        | Springer	|
-| [ECML-PKDD 2021 (Journal)](https://2021.ecmlpkdd.org/)             	| 2021-05-02 | Bilbao        | Springer	|
+| [CIKM 2021 (abstract)](https://www.cikm2021.org/)                     | 2021-05-19 | Queensland    | ACM    	|
+| [CIKM 2021 ](https://www.cikm2021.org/)                               | 2021-05-26 | Queensland    | ACM    	|
 | [NeurIPS 2021](https://nips.cc/Conferences/2021/)                     | 2021-05-26 | Virtual       | NIPS   	|
 | [ICDM 2021](https://icdm2021.auckland.ac.nz/)                         | 2021-06-11 | Auckland      | IEEE   	|
 | [ASONAM 2021](http://asonam.cpsc.ucalgary.ca/2021/)                   | 2021-06-16 | Hague       	 | IEEE    	|
+| [WSDM 2021](http://www.wsdm-conference.org/2022/)                     | 2020-08-09 | Phoenix       | ACM      |
 
 ## Recently passed Conference & Workshops Deadlines
 
 | Name                                                                  | Deadline   | Location      | Format   |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
+| [ECML-PKDD 2021 (Journal)](https://2021.ecmlpkdd.org/)             	| 2021-05-02 | Bilbao        | Springer	|
+| [ECML-PKDD 2021 (Conference)](https://2021.ecmlpkdd.org/)             | 2021-04-02 | Bilbao        | Springer	|
 | [SIGIR 2021](http://sigir.org/sigir2021/)                             | 2021-02-09 | MONTRÉAL      | ACM      |
 | [KDD 2021](https://www.kdd.org/kdd2021/)                              | 2021-02-08 | SINGAPORE     | ACM      |
 | [ICML 2021](https://icml.cc/Conferences/2021)                         | 2021-02-04 | Vienna	     | ICML     |
@@ -27,5 +30,3 @@ This page contains a collection of conferences and workshops that I'm interested
 | [WWW 2021](http://www2021.thewebconf.org/)                            | 2020-10-12 | Ljubljana     | ACM      |
 | [ICLR 2021](https://iclr.cc/Conferences/2021)                         | 2020-10-02 | Vienna        | ICLR     |
 | [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)                    | 2020-09-09 | Vancouver     | AAAI     |
-| [WSDM 2021](http://www.wsdm-conference.org/2021/)                     | 2020-08-16 | Jerusalem     | ACM      | 
-| [CIKM 2020](https://cikm2020.org/)                                    | 2020-05-15 | Galway        | ACM    	|
