@@ -10,9 +10,8 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format 	|
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
-| [CIKM 2021 (Abstract)](https://www.cikm2021.org/)                     | 2021-05-19 | Queensland    | ACM    	|
 | [CIKM 2021](https://www.cikm2021.org/)                                | 2021-05-26 | Queensland    | ACM    	|
-| [NeurIPS 2021](https://nips.cc/Conferences/2021/)                     | 2021-05-26 | Virtual       | NIPS   	|
+| [NeurIPS 2021](https://nips.cc/Conferences/2021/)                     | 2021-05-28 | Virtual       | NIPS   	|
 | [ICDM 2021](https://icdm2021.auckland.ac.nz/)                         | 2021-06-11 | Auckland      | IEEE   	|
 | [ASONAM 2021](http://asonam.cpsc.ucalgary.ca/2021/)                   | 2021-06-16 | Hague       	 | IEEE    	|
 | [WSDM 2022](http://www.wsdm-conference.org/2022/)                     | 2021-08-09 | Phoenix       | ACM      |
