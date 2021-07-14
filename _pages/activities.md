@@ -7,12 +7,16 @@ author_profile: true
 A list of conferences, workshops, schools, competitions, etc. that I have attended. 
 
 ## 2021
+Reviewer of Elsevier-*Neurocomputing*
+
+Attend the *LOGML Summer School*, 12th-16th July 2021, Online.
+
 Reviewer of *KDD-21* conference.
 
 PC member of *SocialNLP* workshop @*TheWeb-21*(WWW-21) conference.
 
 ## 2020
-Attend the *SanDAL Winter School* and gave a oral presentation, 7th-11th December 2020, Online.
+Attend the *SanDAL Winter School* and gave an oral presentation, 7th-11th December 2020, Online.
 
 Reviewer of *TheWeb-21*(WWW-21) conference.
 
