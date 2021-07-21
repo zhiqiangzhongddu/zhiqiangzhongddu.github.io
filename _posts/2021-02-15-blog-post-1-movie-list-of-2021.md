@@ -17,4 +17,5 @@ A list records part of movies that I watched in 2021.
 - Red Dragon (红龙)
 - The Silence of the Lambs (沉默的羔羊)
 - Hannibal (汉尼拔)
-
+- Jojo Rabbit (乔乔的异想世界)
+- Persian Lessons (波斯语)
