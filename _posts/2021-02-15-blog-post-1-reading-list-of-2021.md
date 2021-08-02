@@ -14,3 +14,5 @@ A list records part of books that I read in 2021.
 - 曾国藩家书
 - 经济学通识
 - 我的二本学生
+- 青年变革者：梁启超
+- The Coming of the Third Reich (第三帝国的到来)
