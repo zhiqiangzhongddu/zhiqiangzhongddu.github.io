@@ -10,7 +10,6 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format 	|
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
-| [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)                    | 2021-09-08 | Vancouver     | AAAI     |
 | [ICLR 2022](https://iclr.cc/Conferences/2022)                         | 2021-10-05 | Virtual       | ICLR     |
 | [WWW 2022](https://www2022.thewebconf.org/)                           | 2020-10-21 | Lyon          | ACM      |
 
@@ -18,6 +17,7 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format   |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
+| [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)                    | 2021-09-08 | Vancouver     | AAAI     |
 | [WSDM 2022](http://www.wsdm-conference.org/2022/)                     | 2021-08-09 | Phoenix       | ACM      |
 | [ASONAM 2021](http://asonam.cpsc.ucalgary.ca/2021/)                   | 2021-06-16 | Hague       	 | IEEE    	|
 | [ICDM 2021](https://icdm2021.auckland.ac.nz/)                         | 2021-06-11 | Auckland      | IEEE   	|
