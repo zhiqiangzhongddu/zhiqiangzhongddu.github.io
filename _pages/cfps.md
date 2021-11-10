@@ -10,6 +10,7 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format 	|
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
+| [IJCAI 2022](https://ijcai-22.org/)                                   | 2022-01-14 | Vienna        | IJCAI    |
 
 ## Recently passed Conference & Workshops Deadlines
 
@@ -28,4 +29,4 @@ This page contains a collection of conferences and workshops that I'm interested
 | [SIGIR 2021](http://sigir.org/sigir2021/)                             | 2021-02-09 | MONTRÉAL      | ACM      |
 | [KDD 2021](https://www.kdd.org/kdd2021/)                              | 2021-02-08 | SINGAPORE     | ACM      |
 | [ICML 2021](https://icml.cc/Conferences/2021)                         | 2021-02-04 | Vienna	     | ICML     |
-| [IJCAI 2021](https://ijcai-21.org/)                                   | 2021-01-18 | MONTRÉAL      | IJCAI    |
+
