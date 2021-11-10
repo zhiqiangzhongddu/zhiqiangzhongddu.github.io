@@ -10,12 +10,12 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format 	|
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
-| [WWW 2022](https://www2022.thewebconf.org/)                           | 2020-10-21 | Lyon          | ACM      |
 
 ## Recently passed Conference & Workshops Deadlines
 
 | Name                                                                  | Deadline   | Location      | Format   |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
+| [WWW 2022](https://www2022.thewebconf.org/)                           | 2020-10-21 | Lyon          | ACM      |
 | [ICLR 2022](https://iclr.cc/Conferences/2022)                         | 2021-10-05 | Virtual       | ICLR     |
 | [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)                    | 2021-09-08 | Vancouver     | AAAI     |
 | [WSDM 2022](http://www.wsdm-conference.org/2022/)                     | 2021-08-09 | Phoenix       | ACM      |
