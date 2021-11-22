@@ -10,7 +10,12 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format 	|
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
+| [ECML-PKDD 2022 (Journal)](https://2022.ecmlpkdd.org/)             	| 2021-12-10 | Grenoble      | Springer	|
 | [IJCAI 2022](https://ijcai-22.org/)                                   | 2022-01-14 | Vienna        | IJCAI    |
+| [ICML 2022](https://icml.cc/Conferences/2022)                         | 2022-01-20 | Maryland 	 | ICML     |
+| [SIGIR 2022](https://sigir.org/sigir2022/)                            | 2022-01-28 | Madrid        | ACM      |
+| [KDD 2022](https://kdd.org/kdd2022)                                   | 2022-02-10 | Washington    | ACM      |
+| [ECML-PKDD 2022 (Conference)](https://2022.ecmlpkdd.org/)             | 2022-03-28 | Grenoble      | Springer	|
 
 ## Recently passed Conference & Workshops Deadlines
 
@@ -24,9 +29,3 @@ This page contains a collection of conferences and workshops that I'm interested
 | [ICDM 2021](https://icdm2021.auckland.ac.nz/)                         | 2021-06-11 | Auckland      | IEEE   	|
 | [NeurIPS 2021](https://nips.cc/Conferences/2021/)                     | 2021-05-28 | Virtual       | NIPS   	|
 | [CIKM 2021](https://www.cikm2021.org/)                                | 2021-05-26 | Queensland    | ACM    	|
-| [ECML-PKDD 2021 (Journal)](https://2021.ecmlpkdd.org/)             	| 2021-05-02 | Bilbao        | Springer	|
-| [ECML-PKDD 2021 (Conference)](https://2021.ecmlpkdd.org/)             | 2021-04-02 | Bilbao        | Springer	|
-| [SIGIR 2021](http://sigir.org/sigir2021/)                             | 2021-02-09 | MONTRÉAL      | ACM      |
-| [KDD 2021](https://www.kdd.org/kdd2021/)                              | 2021-02-08 | SINGAPORE     | ACM      |
-| [ICML 2021](https://icml.cc/Conferences/2021)                         | 2021-02-04 | Vienna	     | ICML     |
-
