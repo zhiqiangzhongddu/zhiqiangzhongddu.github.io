@@ -10,7 +10,6 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format 	|
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
-| [ICML 2022](https://icml.cc/Conferences/2022)                         | 2022-01-20 | Maryland 	 | ICML     |
 | [SIGIR 2022](https://sigir.org/sigir2022/)                            | 2022-01-28 | Madrid        | ACM      |
 | [KDD 2022](https://kdd.org/kdd2022)                                   | 2022-02-10 | Washington    | ACM      |
 | [ECML-PKDD 2022 (Journal)](https://2022.ecmlpkdd.org/)             	| 2021-02-11 | Grenoble      | Springer	|
@@ -20,6 +19,7 @@ This page contains a collection of conferences and workshops that I'm interested
 
 | Name                                                                  | Deadline   | Location      | Format   |
 | :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
+| [ICML 2022](https://icml.cc/Conferences/2022)                         | 2022-01-20 | Maryland 	 | ICML     |
 | [IJCAI 2022](https://ijcai-22.org/)                                   | 2022-01-14 | Vienna        | IJCAI    |
 | [WWW 2022](https://www2022.thewebconf.org/)                           | 2020-10-21 | Lyon          | ACM      |
 | [ICLR 2022](https://iclr.cc/Conferences/2022)                         | 2021-10-05 | Virtual       | ICLR     |
