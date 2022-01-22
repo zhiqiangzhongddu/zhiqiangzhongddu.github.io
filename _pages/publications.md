@@ -5,13 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2021
+<font color="#1589F0">From #Jobsearch to #Mask: Improving COVID-19 Cascade Prediction with Spillover Effects</font>
+Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang  
+*ACM/IEEE International Conference on Social Network Analysis and Mining (ASONAM2021)*
+
 <font color="#1589F0">An Exploratory Study of COVID-19 Information on Twitter in the Greater Region</font>
 Ninghan Chen, **Zhiqiang Zhong**, Jun Pang  
 *Journal of Big Data and Cognitive Computing*
 
-<font color="#1589F0">From #Jobsearch to #Mask: Improving COVID-19 Cascade Prediction with Spillover Effects</font>
-Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang  
-*ACM/IEEE International Conference on Social Network Analysis and Mining (ASONAM2021)*
 
 ## 2020
 <font color="#1589F0">Reinforcement Learning Enhanced Heterogeneous Graph Neural Network</font>
