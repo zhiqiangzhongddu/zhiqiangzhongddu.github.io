@@ -7,6 +7,8 @@ author_profile: true
 A list of conferences, workshops, schools, competitions, etc. that I have attended. 
 
 ## 2021
+Work as Teaching Assistant of course Distributed Systems, 1st semester of 2021-2022.
+
 Reviewer of Elsevier-*Neurocomputing*
 
 Attend the *LOGML Summer School*, 12th-16th July 2021, Online.
