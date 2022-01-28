@@ -9,6 +9,7 @@ author_profile: true
 Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang  
 *Journal of Entropy*
 
+
 ## 2021
 <font color="#1589F0">From #Jobsearch to #Mask: Improving COVID-19 Cascade Prediction with Spillover Effects</font>
 Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang  
