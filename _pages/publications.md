@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2022
+<font color="#1589F0">Exploring Spillover Effects for COVID-19 Cascade Prediction</font>
+Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang  
+*Journal of Entropy*
+
 ## 2021
 <font color="#1589F0">From #Jobsearch to #Mask: Improving COVID-19 Cascade Prediction with Spillover Effects</font>
 Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang  
