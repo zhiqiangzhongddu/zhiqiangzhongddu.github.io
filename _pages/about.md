@@ -14,7 +14,7 @@ Technology focused on *graph machine learning* (GML) and *social network analysi
 Master in Information & Finance and Second Master in Data Science, Bachelor in Mathematics.
 
 ## Competitions
-[Kaggle Master](https://www.kaggle.com/zhiqiangzhong), rank 525.
+[Kaggle Master](https://www.kaggle.com/zhiqiangzhong), best global rank 525, with 2 gold medals, 1 silver medal and 1 bronze medal. 
 
 ## What's New
 One paper got accepted by *ASONAM2021*. 
