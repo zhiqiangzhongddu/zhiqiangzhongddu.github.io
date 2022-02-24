@@ -19,6 +19,8 @@ Master in Information & Finance and Second Master in Data Science, Bachelor in M
 ## What's New
 PC member of *SocialNLP* workshop @*TheWeb-22*(WWW-22) conference.
 
+One long paper got accepted by *Journal of Entropy*.
+
 One paper got accepted by *ASONAM2021*. 
 
 One long paper got accepted by *Journal of Big Data and Cognitive Computing*.
