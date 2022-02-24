@@ -17,8 +17,8 @@ Master in Information & Finance and Second Master in Data Science, Bachelor in M
 [Kaggle Master](https://www.kaggle.com/zhiqiangzhong), best global rank 525, with 2 gold medals, 1 silver medal and 1 bronze medal. 
 
 ## What's New
-One paper got accepted by *ASONAM2021*. 
+PC member of *SocialNLP* workshop @*TheWeb-22*(WWW-22) conference.
 
-PC member of *SocialNLP* workshop @*TheWeb-21*(WWW-21) conference.
+One paper got accepted by *ASONAM2021*. 
 
 One long paper got accepted by *Journal of Big Data and Cognitive Computing*.
