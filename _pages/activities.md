@@ -6,6 +6,9 @@ author_profile: true
 
 A list of conferences, workshops, schools, competitions, etc. that I have attended. 
 
+## 2022
+PC member of *SocialNLP* workshop @*TheWeb-22*(WWW-22) conference.
+
 ## 2021
 Work as Teaching Assistant of course Distributed Systems, 1st semester of 2021-2022.
 
