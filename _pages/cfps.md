@@ -10,9 +10,11 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 
 ## Upcoming Conference & Workshops Deadlines
 
-| Name                                                                  | Deadline   | Location      | Format 	|
-| :-------------------------------------------------------------------: | :--------: | :-----------: | :------: |
-| [ECML-PKDD 2022 (Conference)](https://2022.ecmlpkdd.org/)             | 2022-03-28 | Grenoble      | Springer	|
+|                           Name                            |  Deadline  | Location | Format 	|
+|:---------------------------------------------------------:|:----------:|:--------:| :------: |
+| [ECML-PKDD 2022 (Conference)](https://2022.ecmlpkdd.org/) | 2022-03-28 | Grenoble | Springer	|
+|          [CIKM 2022](https://www.cikm2022.org/)           | 2022-XX-XX |  Hybrid  | ACM    	|
+|     [NeurIPS 2022](https://nips.cc/Conferences/2022/)     | 2022-05-19 |  Hybrid  | NIPS   	|
 
 ## Recently passed Conference & Workshops Deadlines
 
@@ -29,5 +31,3 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 | [WSDM 2022](http://www.wsdm-conference.org/2022/)                     | 2021-08-09 | Phoenix       | ACM      |
 | [ASONAM 2021](http://asonam.cpsc.ucalgary.ca/2021/)                   | 2021-06-16 | Hague       	 | IEEE    	|
 | [ICDM 2021](https://icdm2021.auckland.ac.nz/)                         | 2021-06-11 | Auckland      | IEEE   	|
-| [NeurIPS 2021](https://nips.cc/Conferences/2021/)                     | 2021-05-28 | Virtual       | NIPS   	|
-| [CIKM 2021](https://www.cikm2021.org/)                                | 2021-05-26 | Queensland    | ACM    	|
