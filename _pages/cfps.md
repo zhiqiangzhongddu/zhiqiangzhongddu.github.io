@@ -11,8 +11,8 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 ## Upcoming Conference & Workshops Deadlines
 
 |                           Name                            |  Deadline  | Location | Format 	|
-|:---------------------------------------------------------:|:----------:|:--------:| :------: |
-| [ECML-PKDD 2022 (Conference)](https://2022.ecmlpkdd.org/) | 2022-03-28 | Grenoble | Springer	|
+|:---------------------------------------------------------:|:----------:|:--------:| :------:  |
+| [ECML-PKDD 2022 (Conference)](https://2022.ecmlpkdd.org/) | 2022-04-06 | Grenoble | Springer	|
 |          [CIKM 2022](https://www.cikm2022.org/)           | 2022-05-09 |  Hybrid  | ACM    	|
 |     [NeurIPS 2022](https://nips.cc/Conferences/2022/)     | 2022-05-19 |  Hybrid  | NIPS   	|
 |    [ICDM 2021](https://icdm22.cse.usf.edu/index.html)     | 2022-06-10 | Orlando  | IEEE   	|
