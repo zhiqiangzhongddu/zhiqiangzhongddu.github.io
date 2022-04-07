@@ -17,7 +17,7 @@ Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang
 ## 2021
 <font color="#1589F0">From #Jobsearch to #Mask: Improving COVID-19 Cascade Prediction with Spillover Effects</font>
 Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang  
-*ACM/IEEE International Conference on Social Network Analysis and Mining (ASONAM2021)*
+*ACM/IEEE International Conference on Social Network Analysis and Mining (ASONAM'21)*
 
 <font color="#1589F0">An Exploratory Study of COVID-19 Information on Twitter in the Greater Region</font>
 Ninghan Chen, **Zhiqiang Zhong**, Jun Pang  
