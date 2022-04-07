@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Incoming Postdoc at [Aarhus University](https://international.au.dk/) under supervision of [Prof. Dr. Davide Mottin](https://mott.in/).
-PhD at [University of Luxembourg](https://wwwen.uni.lu/) under supervision of [Dr. Jun Pang](http://satoss.uni.lu/members/jun/) within the [SaToSS](http://satoss.uni.lu/) group. 
-Technology focused on *graph machine learning* (GML), *BioMedicine Design* and *social network analysis*.
+Incoming Postdoc at [Aarhus University](https://international.au.dk/) under supervision of [Prof. Dr. Davide Mottin](https://mott.in/). 
+Technology focused on *Graph Machine Learning* (GML), *BioMedicine Design* and *Social Network Analysis*.
+
+PhD of Computer Science at [University of Luxembourg](https://wwwen.uni.lu/) under supervision of [Dr. Jun Pang](http://satoss.uni.lu/members/jun/) within the [SaToSS](http://satoss.uni.lu/) group.
+Thesis title: Leveraging Graph Machine Learning for Social Network Analysis. 
 
 Master in Information & Finance and Second Master in Data Science, Bachelor in Mathematics.
 
@@ -18,6 +20,8 @@ Master in Information & Finance and Second Master in Data Science, Bachelor in M
 [Kaggle Master](https://www.kaggle.com/zhiqiangzhong), best global rank 525, with 2 gold medals, 1 silver medal and 1 bronze medal. 
 
 ## What's New
+Successfully defended my PhD thesis on April 4th, 2022. 
+
 One long paper got accepted by *ECML-PKDD-2022*.
 
 PC member of *SocialNLP* workshop @*TheWeb-2022*(WWW-22) conference.
