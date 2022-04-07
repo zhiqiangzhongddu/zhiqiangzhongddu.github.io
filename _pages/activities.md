@@ -7,6 +7,9 @@ author_profile: true
 A list of conferences, workshops, schools, competitions, etc. that I have attended. 
 
 ## 2022
+Successfully defended my PhD thesis on April 4th, 2022. 
+Thesis title: Leveraging Graph Machine Learning for Social Network Analysis. 
+
 PC member of *SocialNLP* workshop @*TheWeb-22*(WWW-22) conference.
 
 ## 2021
