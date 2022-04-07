@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : zhong_zhiqiang
 facebook:
   username               :
   app_id                 :
@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Zhiqiang Zhong"
   avatar           : "profile_zhiqiang_picture.png"
-  bio              : "PhD Candidate at uni.lu | Kaggle Competition Master"
+  bio              : "PhD at uni.lu | Kaggle Competition Master"
   location         : "Luxembourg"
   employer         : "University of Luxembourg"
-#   googlescholar    : "http://yourfullgooglescholarurl.com"
+   googlescholar    : "https://scholar.google.com/?authuser=1"
   email            : "zhiqiang.zhong@uni.lu"
   uri              :
   bitbucket        :
