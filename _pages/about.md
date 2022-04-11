@@ -24,7 +24,7 @@ Successfully defended my PhD thesis on April 4th, 2022.
 
 One long paper got accepted by *ECML-PKDD-2022*.
 
-PC member of *SocialNLP* workshop @*TheWeb-2022*(WWW-22) conference.
+PC member of *SocialNLP* workshop @*TheWeb-2022*(WWW'22) conference.
 
 One long paper got accepted by *Journal of Entropy*.
 
