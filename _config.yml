@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Zhiqiang Zhong"
   avatar           : "profile_zhiqiang_picture.png"
-  bio              : "PhD at uni.lu | Kaggle Competition Master"
-  location         : "Luxembourg"
-  employer         : "University of Luxembourg"
+  bio              : "Postdoc at Aarhus University"
+  location         : "Aarhus"
+  employer         : "Aarhus University"
   googlescholar    : "https://scholar.google.com/?authuser=1"
-  email            : "zhiqiang.zhong@uni.lu"
+  email            : "paul.zhiqiangzhong@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   instagram        : "zhiqiang__dzzz/"
   lastfm           :
   linkedin         : "zhiqiang-zhong-097287111/"
-#  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1226-5597"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
