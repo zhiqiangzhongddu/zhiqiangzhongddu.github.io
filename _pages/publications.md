@@ -5,9 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2022
+<font color="#1589F0">Leveraging Graph Machine Learning for Social Network Analysis</font>
+**Zhiqiang Zhong**  
+*Preprint at Arxiv*
+
 <font color="#1589F0">Personalised Meta-path Generation for Heterogeneous Graph Neural Networks</font>
 **Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
 *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'22)*
+
+<font color="#1589F0">Unsupervised Heterophilous Network Embedding via -Ego Network Discrimination</font>
+**Zhiqiang Zhong**, Guadalupe Gonzalez, Daniele Grattarola, Jun Pang  
+*Preprint at Arxiv*
 
 <font color="#1589F0">Exploring Spillover Effects for COVID-19 Cascade Prediction</font>
 Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang  
