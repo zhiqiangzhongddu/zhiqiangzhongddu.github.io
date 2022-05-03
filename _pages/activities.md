@@ -7,6 +7,8 @@ author_profile: true
 A list of conferences, workshops, schools, competitions, etc. that I have attended. 
 
 ## 2022
+Started working as a Postdoc at Aarhus University in May 2022. 
+
 Successfully defended my PhD thesis on April 4th, 2022. 
 Thesis title: Leveraging Graph Machine Learning for Social Network Analysis. 
 
