@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 Postdoc at [Aarhus University](https://international.au.dk/) under supervision of [Prof. Dr. Davide Mottin](https://mott.in/). 
-Technology focused on *Graph Machine Learning* (GML), *BioMedicine Design* and *Social Network Analysis*.
+Technology-focused on *Graph Machine Learning* (GML), *BioMedicine Design* and *Social Network Analysis*.
 
-PhD of Computer Science at [University of Luxembourg](https://wwwen.uni.lu/) under supervision of [Dr. Jun Pang](http://satoss.uni.lu/members/jun/) within the [SaToSS](http://satoss.uni.lu/) group.
+PhD of Computer Science at [University of Luxembourg](https://wwwen.uni.lu/) under the supervision of [Dr. Jun Pang](http://satoss.uni.lu/members/jun/) within the [SaToSS](http://satoss.uni.lu/) group.
 Thesis title: Leveraging Graph Machine Learning for Social Network Analysis. 
 
 Master in Information & Finance and Second Master in Data Science, Bachelor in Mathematics.
