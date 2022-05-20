@@ -12,7 +12,6 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 
 |                        Name                         |  Deadline  | Location | Format  |
 |:---------------------------------------------------:|:----------:|:--------:|:-------:|
-|  [NeurIPS 2022](https://nips.cc/Conferences/2022/)  | 2022-05-19 |  Hybrid  |  NIPS   |
 | [ICDM 2021](https://icdm22.cse.usf.edu/index.html)  | 2022-06-10 | Orlando  |  IEEE   |
 |    [LoG 2022](https://logconference.github.io/)     | 2022-09-16 | Virtual  |   TBD   |
 | [ASONAM 2022](https://asonam.cpsc.ucalgary.ca/2022) | 2022-06-09 |  Turkey  |  IEEE   |
@@ -22,6 +21,7 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 
 |                           Name                            |  Deadline  |  Location  |  Format  |
 |:---------------------------------------------------------:|:----------:|:----------:|:--------:|
+|     [NeurIPS 2022](https://nips.cc/Conferences/2022/)     | 2022-05-19 |   Hybrid   |   NIPS   |
 |          [CIKM 2022](https://www.cikm2022.org/)           | 2022-05-09 |   Hybrid   |   ACM    |
 | [ECML-PKDD 2022 (Conference)](https://2022.ecmlpkdd.org/) | 2022-04-06 |  Grenoble  | Springer |
 |  [ECML-PKDD 2022 (Journal)](https://2022.ecmlpkdd.org/)   | 2021-02-11 |  Grenoble  | Springer |
