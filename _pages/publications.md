@@ -5,13 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2022
+<font color="#1589F0">Hierarchical Message-Passing Graph Neural Networks</font>
+**Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
+*European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'22) Journal Track*
+
+<font color="#1589F0">Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation</font>
+**Zhiqiang Zhong**, Sergey Ivanov, Jun Pang
+*Preprint at Arxiv*
+
 <font color="#1589F0">Leveraging Graph Machine Learning for Social Network Analysis</font>
 **Zhiqiang Zhong**  
 *Preprint at Arxiv*
 
 <font color="#1589F0">Personalised Meta-path Generation for Heterogeneous Graph Neural Networks</font>
 **Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
-*European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'22)*
+*European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'22) Journal Track*
 
 <font color="#1589F0">Unsupervised Heterophilous Network Embedding via -Ego Network Discrimination</font>
 **Zhiqiang Zhong**, Guadalupe Gonzalez, Daniele Grattarola, Jun Pang  
@@ -34,10 +42,6 @@ Ninghan Chen, **Zhiqiang Zhong**, Jun Pang
 
 ## 2020
 <font color="#1589F0">Adaptive Multi-grained Graph Neural Networks</font>
-**Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
-*Preprint at Arxiv*
-
-<font color="#1589F0">Hierarchical Message-Passing Graph Neural Networks</font>
 **Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
 *Preprint at Arxiv*
 
