@@ -14,7 +14,7 @@ Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang
 *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'22) Journal Track*
 
 <font color="#1589F0">Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation</font>
-**Zhiqiang Zhong**, Sergey Ivanov, Jun Pang
+**Zhiqiang Zhong**, Sergey Ivanov, Jun Pang  
 *Preprint at Arxiv*
 
 <font color="#1589F0">Leveraging Graph Machine Learning for Social Network Analysis</font>
