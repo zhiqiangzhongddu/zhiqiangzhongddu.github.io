@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2022
+<font color="#1589F0">“Double vaccinated, 5G boosted!": Learning Attitudes towards COVID-19 Vaccination from Social Media</font>
+Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang  
+*Preprint at Arxiv*
+
 <font color="#1589F0">The Burden of Being a Bridge: Analysing Subjective Well-Being of Twitter Users during the COVID-19 Pandemic</font>
 Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang  
 *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'22)*
