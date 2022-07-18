@@ -7,7 +7,9 @@ author_profile: true
 ## 2022
 <font color="#1589F0">Multi-grained Semantics-aware Graph Neural Networks</font>
 **Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
-*IEEE Transactions on Knowledge and Data Engineering (TKDE)*
+*IEEE Transactions on Knowledge and Data Engineering (TKDE)* 
+[[Paper](https://arxiv.org/abs/2010.00238)]
+[[Code](https://github.com/zhiqiangzhongddu/AdamGNN)]
 
 <font color="#1589F0">“Double vaccinated, 5G boosted!": Learning Attitudes towards COVID-19 Vaccination from Social Media</font>
 Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang  
