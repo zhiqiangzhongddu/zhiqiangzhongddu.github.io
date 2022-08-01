@@ -10,16 +10,20 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 
 ## Upcoming Conference & Workshops Deadlines
 
-|                        Name                         |  Deadline  | Location | Format  |
-|:---------------------------------------------------:|:----------:|:--------:|:-------:|
-|    [LoG 2022](https://logconference.github.io/)     | 2022-09-16 | Virtual  |   TBD   |
-| [ASONAM 2022](https://asonam.cpsc.ucalgary.ca/2022) | 2022-06-09 |  Turkey  |  IEEE   |
-
+|                              Name                               |  Deadline  |  Location  | Format |
+|:---------------------------------------------------------------:|:----------:|:----------:|:------:|
+|       [WSDM 2023](https://www.wsdm-conference.org/2023/)        | 2022-08-12 | Singapore  |  ACM   |
+|       [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)        | 2022-08-15 | Washington |  AAAI  |
+|          [LoG 2022](https://logconference.github.io/)           | 2022-09-16 |  Virtual   |  LOG   |
+| [AAAI 2023 - Fast Track](https://aaai.org/Conferences/AAAI-23/) | 2022-09-16 | Washington |  AAAI  |
+|          [ICLR 2023](https://iclr.cc/Conferences/2023)          | 2022-09-28 |   Kigali   |  ICLR  |
+|           [WWW 2023](https://www2023.thewebconf.org/)           | 2022-10-13 |   Texas    |  ACM   |
 
 ## Recently passed Conference & Workshops Deadlines
 
 |                           Name                            |  Deadline  |  Location  |  Format  |
 |:---------------------------------------------------------:|:----------:|:----------:|:--------:|
+|    [ASONAM 2022](https://asonam.cpsc.ucalgary.ca/2022)    | 2022-06-26 |   Turkey   |   IEEE   |
 |    [ICDM 2021](https://icdm22.cse.usf.edu/index.html)     | 2022-06-10 |  Orlando   |   IEEE   |
 |     [NeurIPS 2022](https://nips.cc/Conferences/2022/)     | 2022-05-19 |   Hybrid   |   NIPS   |
 |          [CIKM 2022](https://www.cikm2022.org/)           | 2022-05-09 |   Hybrid   |   ACM    |
@@ -29,8 +33,3 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 |        [SIGIR 2022](https://sigir.org/sigir2022/)         | 2022-01-28 |   Madrid   |   ACM    |
 |       [ICML 2022](https://icml.cc/Conferences/2022)       | 2022-01-20 |  Maryland  |   ICML   |
 |            [IJCAI 2022](https://ijcai-22.org/)            | 2022-01-14 |   Vienna   |  IJCAI   |
-|        [WWW 2022](https://www2022.thewebconf.org/)        | 2020-10-21 |    Lyon    |   ACM    |
-|       [ICLR 2022](https://iclr.cc/Conferences/2022)       | 2021-10-05 |  Virtual   |   ICLR   |
-|    [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)     | 2021-09-08 | Vancouver  |   AAAI   |
-|     [WSDM 2022](http://www.wsdm-conference.org/2022/)     | 2021-08-09 |  Phoenix   |   ACM    |
-
