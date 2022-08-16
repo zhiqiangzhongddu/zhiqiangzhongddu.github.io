@@ -12,8 +12,6 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 
 |                              Name                               |  Deadline  |  Location  | Format |
 |:---------------------------------------------------------------:|:----------:|:----------:|:------:|
-|       [WSDM 2023](https://www.wsdm-conference.org/2023/)        | 2022-08-12 | Singapore  |  ACM   |
-|       [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)        | 2022-08-15 | Washington |  AAAI  |
 |          [LoG 2022](https://logconference.github.io/)           | 2022-09-16 |  Virtual   |  LOG   |
 | [AAAI 2023 - Fast Track](https://aaai.org/Conferences/AAAI-23/) | 2022-09-16 | Washington |  AAAI  |
 |          [ICLR 2023](https://iclr.cc/Conferences/2023)          | 2022-09-28 |   Kigali   |  ICLR  |
@@ -23,6 +21,8 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 
 |                           Name                            |  Deadline  |  Location  |  Format  |
 |:---------------------------------------------------------:|:----------:|:----------:|:--------:|
+|    [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)     | 2022-08-15 | Washington |   AAAI   |
+|    [WSDM 2023](https://www.wsdm-conference.org/2023/)     | 2022-08-12 | Singapore  |   ACM    |
 |    [ASONAM 2022](https://asonam.cpsc.ucalgary.ca/2022)    | 2022-06-26 |   Turkey   |   IEEE   |
 |    [ICDM 2021](https://icdm22.cse.usf.edu/index.html)     | 2022-06-10 |  Orlando   |   IEEE   |
 |     [NeurIPS 2022](https://nips.cc/Conferences/2022/)     | 2022-05-19 |   Hybrid   |   NIPS   |
