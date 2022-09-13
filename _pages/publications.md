@@ -21,7 +21,7 @@ Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang
 
 <font color="#1589F0">Hierarchical Message-Passing Graph Neural Networks</font>
 **Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
-*Data Mining and Knowledge Discovery Journal*
+*Journal of Data Mining and Knowledge Discovery - Journal Track of ECML-PKDD*
 
 <font color="#1589F0">Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation</font>
 **Zhiqiang Zhong**, Sergey Ivanov, Jun Pang  
@@ -29,13 +29,13 @@ Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang
 
 <font color="#1589F0">Leveraging Graph Machine Learning for Social Network Analysis</font>
 **Zhiqiang Zhong**  
-*Preprint at Arxiv*
+*Preprint at orbilu.uni.lu*
 
 <font color="#1589F0">Personalised Meta-path Generation for Heterogeneous Graph Neural Networks</font>
 **Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
-*Data Mining and Knowledge Discovery Journal*
+*Journal of Data Mining and Knowledge Discovery - Journal Track of ECML-PKDD*
 
-<font color="#1589F0">Unsupervised Heterophilous Network Embedding via -Ego Network Discrimination</font>
+<font color="#1589F0">Unsupervised Heterophilous Network Embedding via Ego Network Discrimination</font>
 **Zhiqiang Zhong**, Guadalupe Gonzalez, Daniele Grattarola, Jun Pang  
 *Preprint at Arxiv*
 
