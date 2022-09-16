@@ -26,7 +26,7 @@ Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang
 **Zhiqiang Zhong**, Sergey Ivanov, Jun Pang  
 *Preprint at Arxiv*
 [[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2205.09389)]
-[[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/CLP)]
+[[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/TMLR-CLP)]
 
 <font color="#1589F0">Leveraging Graph Machine Learning for Social Network Analysis</font>
 **Zhiqiang Zhong**  
