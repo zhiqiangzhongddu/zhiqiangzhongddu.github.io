@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2022
+<font color="#1589F0">Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation</font>
+**Zhiqiang Zhong**, Sergey Ivanov, Jun Pang  
+*Transactions on Machine Learning Research (TMLR)*
+[[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2205.09389)]
+[[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/TMLR-CLP)]
+
 <font color="#1589F0">Multi-grained Semantics-aware Graph Neural Networks</font>
 **Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
 *IEEE Transactions on Knowledge and Data Engineering (TKDE)* 
@@ -21,12 +27,6 @@ Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang
 *Journal of Data Mining and Knowledge Discovery - Journal Track of ECML-PKDD*
 [[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2009.03717)]
 [[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/HC-GNN)]
-
-<font color="#1589F0">Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation</font>
-**Zhiqiang Zhong**, Sergey Ivanov, Jun Pang  
-*Preprint at Arxiv*
-[[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2205.09389)]
-[[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/TMLR-CLP)]
 
 <font color="#1589F0">Leveraging Graph Machine Learning for Social Network Analysis</font>
 **Zhiqiang Zhong**  
