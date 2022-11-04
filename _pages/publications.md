@@ -36,6 +36,7 @@ Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang
 <font color="#1589F0">Personalised Meta-path Generation for Heterogeneous Graph Neural Networks</font>
 **Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
 *Journal of Data Mining and Knowledge Discovery - Journal Track of ECML-PKDD*
+[[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2010.13735)
 [[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/PM-HGNN)]
 
 <font color="#1589F0">Unsupervised Heterophilous Network Embedding via r-Ego Network Discrimination</font>
