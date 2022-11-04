@@ -12,12 +12,13 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 
 |                              Name                               |  Deadline  |  Location  | Format |
 |:---------------------------------------------------------------:|:----------:|:----------:|:------:|
-|           [WWW 2023](https://www2023.thewebconf.org/)           | 2022-10-13 |   Texas    |  ACM   |
+
 
 ## Recently passed Conference & Workshops Deadlines
 
 |                           Name                            |  Deadline  |  Location  |  Format  |
 |:---------------------------------------------------------:|:----------:|:----------:|:--------:|
+|        [WWW 2023](https://www2023.thewebconf.org/)        | 2022-10-13 |   Texas    |   ACM    |
 |       [ICLR 2023](https://iclr.cc/Conferences/2023)       | 2022-09-28 |   Kigali   |   ICLR   |
 |       [LoG 2022](https://logconference.github.io/)        | 2022-09-16 |  Virtual   |   LOG    |
 |    [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)     | 2022-08-15 | Washington |   AAAI   |
