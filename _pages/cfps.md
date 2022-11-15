@@ -10,11 +10,13 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 
 ## Upcoming Conference & Workshops Deadlines
 
-|                     Name                      |  Deadline  | Location  |  Format  |
-|:---------------------------------------------:|:----------:|:---------:|:--------:|
-|      [IJCAI 2023](https://ijcai-23.org/)      | 2023-01-18 | Cape Town |  IJCAI   |
-|  [SIGIR 2023](https://sigir.org/sigir2023/)   | 2023-01-24 |  Taibei   |   ACM    |
-| [ICML 2023](https://icml.cc/Conferences/2023) | 2023-01-26 |  Hawaii   |   ICML   |
+|                          Name                          |  Deadline  |   Location    |  Format  |
+|:------------------------------------------------------:|:----------:|:-------------:|:--------:|
+| [ECML-PKDD 2023 (Journal)](https://2023.ecmlpkdd.org/) | 2022-11-28 |     Turin     | Springer |
+|          [IJCAI 2023](https://ijcai-23.org/)           | 2023-01-18 |   Cape Town   |  IJCAI   |
+|       [SIGIR 2023](https://sigir.org/sigir2023/)       | 2023-01-24 |    Taibei     |   ACM    |
+|     [ICML 2023](https://icml.cc/Conferences/2023)      | 2023-01-26 |    Hawaii     |   ICML   |
+| [ECML-PKDD 2023 (Journal)](https://2023.ecmlpkdd.org/) | 2023-02-10 |     Turin     | Springer |
 
 ## Recently passed Conference & Workshops Deadlines
 
@@ -30,6 +32,4 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 |     [NeurIPS 2022](https://nips.cc/Conferences/2022/)     | 2022-05-19 |   Hybrid   |   NIPS   |
 |          [CIKM 2022](https://www.cikm2022.org/)           | 2022-05-09 |   Hybrid   |   ACM    |
 | [ECML-PKDD 2022 (Conference)](https://2022.ecmlpkdd.org/) | 2022-04-06 |  Grenoble  | Springer |
-|  [ECML-PKDD 2022 (Journal)](https://2022.ecmlpkdd.org/)   | 2021-02-11 |  Grenoble  | Springer |
 |            [KDD 2022](https://kdd.org/kdd2022)            | 2022-02-10 | Washington |   ACM    |
-
