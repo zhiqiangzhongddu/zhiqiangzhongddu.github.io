@@ -5,17 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2022
-<font color="#1589F0">Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation</font>
-**Zhiqiang Zhong**, Sergey Ivanov, Jun Pang  
+<font color="#1589F0">Unsupervised Network Embedding Beyond Homophily</font>
+**Zhiqiang Zhong**, Guadalupe Gonzalez, Daniele Grattarola, Jun Pang  
 *Transactions on Machine Learning Research (TMLR)*
-[[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2205.09389)]
-[[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/TMLR-CLP)]
+[[<font color="#1589F0">Paper</font>](https://openreview.net/pdf?id=sRgvmXjrmg)]
+[[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/Selene)]
 
 <font color="#1589F0">Multi-grained Semantics-aware Graph Neural Networks</font>
 **Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
 *IEEE Transactions on Knowledge and Data Engineering (TKDE)* 
 [[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2010.00238)]
 [[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/AdamGNN)]
+
+<font color="#1589F0">Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation</font>
+**Zhiqiang Zhong**, Sergey Ivanov, Jun Pang  
+*Transactions on Machine Learning Research (TMLR)*
+[[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2205.09389)]
+[[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/TMLR-CLP)]
+
 
 <font color="#1589F0">The Burden of Being a Bridge: Analysing Subjective Well-Being of Twitter Users during the COVID-19 Pandemic</font>
 Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang  
@@ -38,12 +45,6 @@ Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang
 *Journal of Data Mining and Knowledge Discovery - Journal Track of ECML-PKDD*
 [[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2010.13735)
 [[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/PM-HGNN)]
-
-<font color="#1589F0">Unsupervised Heterophilous Network Embedding via r-Ego Network Discrimination</font>
-**Zhiqiang Zhong**, Guadalupe Gonzalez, Daniele Grattarola, Jun Pang  
-*Preprint at Arxiv*
-[[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2203.10866)]
-[[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/Selene)]
 
 <font color="#1589F0">Exploring Spillover Effects for COVID-19 Cascade Prediction</font>
 Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang  
