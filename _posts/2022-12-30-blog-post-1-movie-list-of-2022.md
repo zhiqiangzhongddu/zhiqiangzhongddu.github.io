@@ -1,6 +1,6 @@
 ---
 title: 'Movie-List of 2022'
-date: 2022-12-31
+date: 2022-12-30
 permalink: /posts/2022/12/blog-post-1/
 tags:
   - movie
