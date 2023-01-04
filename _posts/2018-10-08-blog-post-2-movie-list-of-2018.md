@@ -10,6 +10,7 @@ tags:
 A list records part of movies that I watched in 2018.
 
 ## Movie list - 2018
+
 - Au revoir là-haut (See You Up There) / Actor: Nahuel Pérez Biscayart
 - 春娇与志明 (Love in the Buff)
 - I Am Legend (我是传奇) / Actor: Will Smith

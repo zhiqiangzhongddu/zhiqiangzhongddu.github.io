@@ -10,4 +10,5 @@ tags:
 A list records part of books that I read in 2023.
 
 ## Reading List - 2023
+
 - to explore

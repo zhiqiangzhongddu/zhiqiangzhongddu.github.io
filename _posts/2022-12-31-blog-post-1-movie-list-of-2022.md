@@ -10,6 +10,7 @@ tags:
 A list records part of movies that I watched in 2022.
 
 ## Movie list - 2022
+
 - Game of Thrones (权力的游戏) (1-8)
 - Squid Game (鱿鱼游戏)
 - The Trial of the Chicago 7 (芝加哥七君子审判)

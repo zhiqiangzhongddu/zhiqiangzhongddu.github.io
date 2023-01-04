@@ -10,6 +10,7 @@ tags:
 A list records part of movies that I watched in 2019.
 
 ## Movie list - 2019
+
 - Free Solo (徒手攀岩)
 - 孩子王 (King of the Children)
 - 霸王别姬 (Farewell My Concubine)

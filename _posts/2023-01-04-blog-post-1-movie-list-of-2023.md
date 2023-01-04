@@ -10,4 +10,5 @@ tags:
 A list records part of movies that I watched in 2023.
 
 ## Movie list - 2023
+
 - to explore

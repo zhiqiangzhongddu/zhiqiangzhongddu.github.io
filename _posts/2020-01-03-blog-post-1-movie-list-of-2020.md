@@ -10,6 +10,7 @@ tags:
 A list records part of movies that I watched in 2020.
 
 ## Movie list - 2020
+
 - Project Gutenberg (无双)
 - Get Out (逃出绝命镇)
 - Star Wars (星球大战)
