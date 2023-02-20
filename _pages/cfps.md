@@ -10,18 +10,20 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 
 ## Upcoming Conference & Workshops Deadlines
 
-|                          Name                          |  Deadline  |  Location  |  Format  |
-|:------------------------------------------------------:|:----------:|:----------:|:--------:|
-|          [IJCAI 2023](https://ijcai-23.org/)           | 2023-01-18 | Cape Town  |  IJCAI   |
-|       [SIGIR 2023](https://sigir.org/sigir2023/)       | 2023-01-24 |   Taibei   |   ACM    |
-|     [ICML 2023](https://icml.cc/Conferences/2023)      | 2023-01-26 |   Hawaii   |   ICML   |
-|          [KDD 2023](https://kdd.org/kdd2023)           | 2023-02-02 | Long Beach |   ACM    |
-| [ECML-PKDD 2023 (Journal)](https://2023.ecmlpkdd.org/) | 2023-02-10 |   Turin    | Springer |
+|                           Name                            |  Deadline  |  Location   |  Format  |
+|:---------------------------------------------------------:|:----------:|:-----------:|:--------:|
+| [ECML-PKDD 2023 (Conference)](https://2023.ecmlpkdd.org/) | 2023-04-02 |    Turin    | Springer |
+|     [NeurIPS 2023](https://nips.cc/Conferences/2023/)     | 2023-05-17 | New Orleans |   NIPS   |
 
 ## Recently passed Conference & Workshops Deadlines
 
 |                           Name                            |  Deadline  |  Location  |  Format  |
 |:---------------------------------------------------------:|:----------:|:----------:|:--------:|
+|  [ECML-PKDD 2023 (Journal)](https://2023.ecmlpkdd.org/)   | 2023-02-10 |   Turin    | Springer |
+|            [KDD 2023](https://kdd.org/kdd2023)            | 2023-02-02 | Long Beach |   ACM    |
+|       [ICML 2023](https://icml.cc/Conferences/2023)       | 2023-01-26 |   Hawaii   |   ICML   |
+|        [SIGIR 2023](https://sigir.org/sigir2023/)         | 2023-01-24 |   Taibei   |   ACM    |
+|            [IJCAI 2023](https://ijcai-23.org/)            | 2023-01-18 | Cape Town  |  IJCAI   |
 |        [WWW 2023](https://www2023.thewebconf.org/)        | 2022-10-13 |   Texas    |   ACM    |
 |       [ICLR 2023](https://iclr.cc/Conferences/2023)       | 2022-09-28 |   Kigali   |   ICLR   |
 |       [LoG 2022](https://logconference.github.io/)        | 2022-09-16 |  Virtual   |   LOG    |
@@ -29,7 +31,4 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 |    [WSDM 2023](https://www.wsdm-conference.org/2023/)     | 2022-08-12 | Singapore  |   ACM    |
 |    [ASONAM 2022](https://asonam.cpsc.ucalgary.ca/2022)    | 2022-06-26 |   Turkey   |   IEEE   |
 |    [ICDM 2021](https://icdm22.cse.usf.edu/index.html)     | 2022-06-10 |  Orlando   |   IEEE   |
-|     [NeurIPS 2022](https://nips.cc/Conferences/2022/)     | 2022-05-19 |   Hybrid   |   NIPS   |
 |          [CIKM 2022](https://www.cikm2022.org/)           | 2022-05-09 |   Hybrid   |   ACM    |
-| [ECML-PKDD 2022 (Conference)](https://2022.ecmlpkdd.org/) | 2022-04-06 |  Grenoble  | Springer |
-
