@@ -11,6 +11,12 @@ author_profile: true
 *Preprint on arxiv*
 [[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2302.08261)]
 
+1. <font color="#1589F0">Hierarchical Message-Passing Graph Neural Networks</font>
+**Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
+*Journal of Data Mining and Knowledge Discovery (DMKD) - Journal Track of ECML-PKDD*
+[[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2009.03717)]
+[[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/HC-GNN)]
+
 ## 2022
 1. <font color="#1589F0">Unsupervised Network Embedding Beyond Homophily</font>
 **Zhiqiang Zhong**, Guadalupe Gonzalez, Daniele Grattarola, Jun Pang  
@@ -30,17 +36,10 @@ author_profile: true
 [[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2205.09389)]
 [[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/TMLR-CLP)]
 
-
 1. <font color="#1589F0">The Burden of Being a Bridge: Analysing Subjective Well-Being of Twitter Users during the COVID-19 Pandemic</font>
 Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang  
 *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'22)*
 [[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2104.04331)]
-
-1. <font color="#1589F0">Hierarchical Message-Passing Graph Neural Networks</font>
-**Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
-*Journal of Data Mining and Knowledge Discovery - Journal Track of ECML-PKDD*
-[[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2009.03717)]
-[[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/HC-GNN)]
 
 1. <font color="#1589F0">Leveraging Graph Machine Learning for Social Network Analysis</font>
 **Zhiqiang Zhong**  
@@ -49,7 +48,7 @@ Ninghan Chen, Xihui Chen, **Zhiqiang Zhong**, Jun Pang
 
 1. <font color="#1589F0">Personalised Meta-path Generation for Heterogeneous Graph Neural Networks</font>
 **Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
-*Journal of Data Mining and Knowledge Discovery - Journal Track of ECML-PKDD*
+*Journal of Data Mining and Knowledge Discovery (DMKD) - Journal Track of ECML-PKDD*
 [[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2010.13735)
 [[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/PM-HGNN)]
 
