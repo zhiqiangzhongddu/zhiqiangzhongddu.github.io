@@ -10,6 +10,7 @@ author_profile: true
 **Zhiqiang Zhong**, Anastasia Barkova, Davide Mottin  
 *Preprint on arxiv*
 [[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2302.08261)]
+[[<font color="#1589F0">GitHub Page</font>](https://github.com/zhiqiangzhongddu/Awesome-Knowledge-augmented-GML-for-Drug-Discovery)]
 
 1. <font color="#1589F0">Hierarchical Message-Passing Graph Neural Networks</font>
 **Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
