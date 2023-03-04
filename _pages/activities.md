@@ -6,6 +6,12 @@ author_profile: true
 
 A list of conferences, workshops, schools, competitions, etc. that I have attended. 
 
+## 2023
+
+Reviewer of *TKDD*
+
+PC member of *SocialNLP* workshop @*TheWeb-23*(WWW-23) conference.
+
 ## 2022
 Started working as a Postdoc at Aarhus University in May 2022. 
 
