@@ -8,6 +8,8 @@ A list of conferences, workshops, schools, competitions, etc. that I have attend
 
 ## 2023
 
+PC member of *ECML/PKDD-23* .
+
 Reviewer of *TKDD*
 
 PC member of *SocialNLP* workshop @*TheWeb-23*(WWW-23) conference.
