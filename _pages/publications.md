@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 ## 2023
+1. <font color="#1589F0">Tutorial: Knowledge-augmented Graph Machine Learning for Drug Discovery: from Precision to Interpretability</font>
+**Zhiqiang Zhong**, Davide Mottin  
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'23)*
+[[<font color="#1589F0">Paper</font>](https://zhiqiangzhongddu.github.io/)]
+[[<font color="#1589F0">Web Page</font>](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial)]
+
 1. <font color="#1589F0">Knowledge-augmented Graph Machine Learning for Drug Discovery: A Survey from Precision to Interpretability</font>
 **Zhiqiang Zhong**, Anastasia Barkova, Davide Mottin  
 *Preprint on arxiv*
