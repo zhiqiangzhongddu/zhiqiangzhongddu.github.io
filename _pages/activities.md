@@ -7,6 +7,7 @@ author_profile: true
 A list of conferences, workshops, schools, competitions, etc. that I have attended. 
 
 ## 2023
+One lecture-style tutorial "Knowledge-augmented Graph Machine Learning for Drug Discovery: from Precision to Interpretability" accepted by KDD-23. 
 
 PC member of *ECML/PKDD-23* .
 
