@@ -8,11 +8,13 @@ A list of conferences, workshops, schools, competitions, etc. that I have attend
 
 ## 2023
 
+Give an invited talk (title: Knowledge-augmented Graph Machine Learning for Drug Discovery) at SP2 Workshop, University of Luxembourg.  
+Reviewer of *Artificial Intelligence* journal.  
 PC member of *AICONF-23*.  
 One lecture-style tutorial "Knowledge-augmented Graph Machine Learning for Drug Discovery: from Precision to Interpretability" accepted by KDD-23.  
 Give an invited talk (title: Knowledge-augmented Graph Machine Learning for Drug Discovery) at Department of Computer Science, Aalborg University.  
-PC member of *ECML/PKDD-23*.
-Reviewer of *TKDD*.  
+PC member of *ECML/PKDD-23*.  
+Reviewer of *TKDD* journal.  
 PC member of *SocialNLP* workshop @*TheWeb-23*(WWW-23) conference.  
 
 ## 2022
