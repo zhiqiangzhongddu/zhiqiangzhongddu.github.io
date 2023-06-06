@@ -10,10 +10,14 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 
 ## Upcoming Conference & Workshops Deadlines
 
-|                            Name                             |  Deadline  |  Location  | Format |
-|:-----------------------------------------------------------:|:----------:|:----------:|:------:|
-|     [ASONAM 2023](https://asonam.cpsc.ucalgary.ca/2023)     | 2023-06-26 |  Morocco   |  IEEE  |
-| [ICDM 2023](https://www.cloud-conf.net/icdm2023/index.html) | 2023-07-01 |  Shanghai  |  IEEE  |
+|                            Name                             |  Deadline  | Location  | Format |
+|:-----------------------------------------------------------:|:----------:|:---------:|:------:|
+|     [ASONAM 2023](https://asonam.cpsc.ucalgary.ca/2023)     | 2023-06-26 |  Morocco  |  IEEE  |
+| [ICDM 2023](https://www.cloud-conf.net/icdm2023/index.html) | 2023-07-01 | Shanghai  |  IEEE  |
+|     [ICDE 2024 (Round 1)](https://icde2024.github.io/)      | 2023-07-28 | Utrecht  |  IEEE  |
+|     [WSDM 2024](https://www.wsdm-conference.org/2024/)      | 2023-08-10 |  Mérida  |   ACM    |
+|       [AAAI 2024](https://aaai.org/aaai-conference/)        | 2023-08-15 | Vancouver |  AAAI  |
+
 
 ## Recently passed Conference & Workshops Deadlines
 
@@ -30,5 +34,4 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 |        [WWW 2023](https://www2023.thewebconf.org/)        | 2022-10-13 |    Texas    |   ACM    |
 |       [ICLR 2023](https://iclr.cc/Conferences/2023)       | 2022-09-28 |   Kigali    |   ICLR   |
 |       [LoG 2022](https://logconference.github.io/)        | 2022-09-16 |   Virtual   |   LOG    |
-|    [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)     | 2022-08-15 | Washington  |   AAAI   |
-|    [WSDM 2023](https://www.wsdm-conference.org/2023/)     | 2022-08-12 |  Singapore  |   ACM    |
+
