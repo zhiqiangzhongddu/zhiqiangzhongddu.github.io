@@ -12,7 +12,6 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 
 |                            Name                             |  Deadline  |  Location  | Format |
 |:-----------------------------------------------------------:|:----------:|:----------:|:------:|
-|   [CIKM 2023](https://uobevents.eventsair.com/cikm2023/)    | 2023-06-02 | Birmingham |  ACM   |
 |     [ASONAM 2023](https://asonam.cpsc.ucalgary.ca/2023)     | 2023-06-26 |  Morocco   |  IEEE  |
 | [ICDM 2023](https://www.cloud-conf.net/icdm2023/index.html) | 2023-07-01 |  Shanghai  |  IEEE  |
 
@@ -20,8 +19,9 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 
 |                           Name                            |  Deadline  |  Location   |  Format  |
 |:---------------------------------------------------------:|:----------:|:-----------:|:--------:|
-| [ECML-PKDD 2023 (Conference)](https://2023.ecmlpkdd.org/) | 2023-04-02 |    Turin    | Springer |
+|  [CIKM 2023](https://uobevents.eventsair.com/cikm2023/)   | 2023-06-02 | Birmingham  |   ACM    |
 |     [NeurIPS 2023](https://nips.cc/Conferences/2023/)     | 2023-05-17 | New Orleans |   NIPS   |
+| [ECML-PKDD 2023 (Conference)](https://2023.ecmlpkdd.org/) | 2023-04-02 |    Turin    | Springer |
 |  [ECML-PKDD 2023 (Journal)](https://2023.ecmlpkdd.org/)   | 2023-02-10 |    Turin    | Springer |
 |            [KDD 2023](https://kdd.org/kdd2023)            | 2023-02-02 | Long Beach  |   ACM    |
 |      [ICML 2023](https://icml.cc/Conferences/2023/)       | 2023-01-26 |   Hawaii    |   ICML   |
