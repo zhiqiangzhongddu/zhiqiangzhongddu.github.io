@@ -12,6 +12,12 @@ author_profile: true
 [[<font color="#1589F0">Paper</font>](https://zhiqiangzhongddu.github.io/)]
 [[<font color="#1589F0">Web Page</font>](https://github.com/zhiqiangzhongddu/KDD2023_KaGML_DrugDiscovery_Tutorial)]
 
+1. <font color="#1589F0">Multi-grained Semantics-aware Graph Neural Networks</font>
+**Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
+*IEEE Transactions on Knowledge and Data Engineering (TKDE)* 
+[[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2010.00238)]
+[[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/AdamGNN)]
+
 1. <font color="#1589F0">Knowledge-augmented Graph Machine Learning for Drug Discovery: A Survey from Precision to Interpretability</font>
 **Zhiqiang Zhong**, Anastasia Barkova, Davide Mottin  
 *Preprint on arxiv*
@@ -30,12 +36,6 @@ author_profile: true
 *Transactions on Machine Learning Research (TMLR)*
 [[<font color="#1589F0">Paper</font>](https://openreview.net/pdf?id=sRgvmXjrmg)]
 [[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/Selene)]
-
-1. <font color="#1589F0">Multi-grained Semantics-aware Graph Neural Networks</font>
-**Zhiqiang Zhong**, Cheng-Te Li, Jun Pang  
-*IEEE Transactions on Knowledge and Data Engineering (TKDE)* 
-[[<font color="#1589F0">Paper</font>](https://arxiv.org/abs/2010.00238)]
-[[<font color="#1589F0">Code</font>](https://github.com/zhiqiangzhongddu/AdamGNN)]
 
 1. <font color="#1589F0">Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation</font>
 **Zhiqiang Zhong**, Sergey Ivanov, Jun Pang  
