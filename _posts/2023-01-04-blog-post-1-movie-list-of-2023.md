@@ -1,7 +1,7 @@
 ---
 title: 'Movie-List of 2023'
 date: 2023-01-04
-permalink: /posts/2023/02/blog-post-1/
+permalink: /posts/2023/02/blog-post-2/
 tags:
   - movie
   - 2023
