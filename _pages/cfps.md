@@ -16,7 +16,7 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 | [WSDM 2024](https://www.wsdm-conference.org/2024/) | 2023-08-10 |  Mérida   |  ACM   |
 |   [AAAI 2024](https://aaai.org/aaai-conference/)   | 2023-08-15 | Vancouver |  AAAI  |
 |       [LoG 2023](https://logconference.org/)       | 2023-08-21 |  Virtual  |  LOG   |
-|   [ICLR 2024](https://iclr.cc/Conferences/2024)    | 2023-09-XX |  Vienna   |  ICLR  |
+|   [ICLR 2024](https://iclr.cc/Conferences/2024)    | 2023-09-28 |  Vienna   |  ICLR  |
 |    [WWW 2024](https://www2024.thewebconf.org/)     | 2023-10-12 | Singapore |  ACM   |
 
 ## Recently passed Conference & Workshops Deadlines
