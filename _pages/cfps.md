@@ -12,17 +12,17 @@ Here is a very useful website with comprehensive [CCF Conference Deadlines](http
 
 |                        Name                        |  Deadline  | Location  | Format |
 |:--------------------------------------------------:|:----------:|:---------:|:------:|
-| [ICDE 2024 (Round 1)](https://icde2024.github.io/) | 2023-07-28 |  Utrecht  |  IEEE  |
-| [WSDM 2024](https://www.wsdm-conference.org/2024/) | 2023-08-10 |  Mérida   |  ACM   |
-|   [AAAI 2024](https://aaai.org/aaai-conference/)   | 2023-08-15 | Vancouver |  AAAI  |
-|       [LoG 2023](https://logconference.org/)       | 2023-08-21 |  Virtual  |  LOG   |
-|   [ICLR 2024](https://iclr.cc/Conferences/2024)    | 2023-09-28 |  Vienna   |  ICLR  |
 |    [WWW 2024](https://www2024.thewebconf.org/)     | 2023-10-12 | Singapore |  ACM   |
 
 ## Recently passed Conference & Workshops Deadlines
 
 |                            Name                             |  Deadline  |  Location   |  Format  |
 |:-----------------------------------------------------------:|:----------:|:-----------:|:--------:|
+|        [ICLR 2024](https://iclr.cc/Conferences/2024)        | 2023-09-28 |   Vienna    |   ICLR   |
+|           [LoG 2023](https://logconference.org/)            | 2023-08-21 |   Virtual   |   LOG    |
+|       [AAAI 2024](https://aaai.org/aaai-conference/)        | 2023-08-15 |  Vancouver  |   AAAI   |
+|     [WSDM 2024](https://www.wsdm-conference.org/2024/)      | 2023-08-10 |   Mérida    |   ACM    |
+|     [ICDE 2024 (Round 1)](https://icde2024.github.io/)      | 2023-07-28 |   Utrecht   |   IEEE   |
 | [ICDM 2023](https://www.cloud-conf.net/icdm2023/index.html) | 2023-07-01 |  Shanghai   |   IEEE   |
 |     [ASONAM 2023](https://asonam.cpsc.ucalgary.ca/2023)     | 2023-06-26 |   Morocco   |   IEEE   |
 |   [CIKM 2023](https://uobevents.eventsair.com/cikm2023/)    | 2023-06-02 | Birmingham  |   ACM    |
